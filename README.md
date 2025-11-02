@@ -3,7 +3,7 @@
 
 🛠️ Built by ``Naam 1`` & ``Naam 2``   
 🔥 Supervised by ``prof. dr. Bas Baccarne`` & ``Yannick Christiaens``    
-🌱 Grown at Ghent University, Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
+🌱 Grown at Ghent University 🏛️ Industrial Design Engineering ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
 *Dag/Maand/Jaar van de laatste delivery date*   
 
