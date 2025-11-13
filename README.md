@@ -1,7 +1,7 @@
 # Wobble
 *Stress bij ouders reduceren, door driftbuien/emoties bij kinderen te reguleren.* 
 
-Built by ``Rootsaert Selena`` & ``De Bleser Axelle``   
+Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
