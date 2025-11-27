@@ -9,13 +9,13 @@ Welke deelvragen moesten hiervoor beantwoord worden?
 In this phase, we focused on understanding how young children (ages 2–5) recognize, interpret, and respond to emotions when these are conveyed through simple visual and auditory cues. We aim to determine which forms of expression, colors, and interactions are the most intuitive for this age group. These insights are essential for identifying which sensory elements—such as light, sound, movement, or haptic feedback—Wobble can best use to accurately reflect emotions and effectively support children in self-regulation.
 
 #### Research questions
-* Hoe koppelen kinderen kleuren aan emoties?
-* Welke kleuren ervaren ze als rustgevend, spannend of vrolijk?
-* Hoe interpreteren kinderen minimalistische gezichten?
-* Welke variaties (ogen, wenkbrauwen, vorm) maken emoties het duidelijkst?
-* Hoe gedragen kinderen zich tegenover een niet-levend personage dat emoties toont?
-* Welke sensorische feedback helpt het meest om empathie, herkenning of troostgedrag uit te lokken?
-* Verandert dit gedrag tussen leeftijdsgroepen of tussen jongens en meisjes?
+* How do children associate colors with emotions?
+* Which colors do they perceive as calming, exciting, or cheerful?
+* How do children interpret minimalist faces?
+* Which variations (eyes, eyebrows, shape) make emotions most clear?
+* How do children behave toward a non-living character that displays emotions?
+* Which sensory feedback is most effective in eliciting empathy, recognition, or comforting behavior?
+* Does this behavior vary between age groups or between boys and girls?
 
 ### Materials & methods
 Hoe onderzocht je dit? Wees volledig.  
@@ -26,9 +26,9 @@ Om deze vragen te beantwoorden, werd gewerkt met low- en mid-fidelity prototypes
 
 | Prototype                     | Goal                                   | assessment                                                      |
 |-------------------------------|----------------------------------------|------------------------------------------------------------------|
-| **30+ cards with facial expressions**       | Begrijpen hoe kinderen emoties herkennen en categoriseren | Leesbaarheid van gezichten, intensiteit, voorkeur voor varianten |
-| **Knuffel / kussen / doosfiguur** | Observatie van natuurlijk sociaal gedrag | Troostgedrag, personificatie, afstand/benadering, gebruiksgedrag |
-| **Kleurkaarten**             | Onderzoeken van emotionele kleurassociaties | Positief/negatief gevoel, herkenning, plaatsing op emotie-schaal |
+| **30+ cards with facial expressions**       | Understand how childeren recognise emotions and categorise them | readability of facial expressions, intensity, preference for variants |
+| **teddy bear / pillow / figure on box** | Observation from natural social behavior | Comfort behaviour, personification, distance/approximation, usage behaviour |
+| **Color cards**             | Researching emotional color associations | Positive/negative feelings, recognition, putting it on an emotion scale |
 
 
 #### Test 1. Facial Expressions
