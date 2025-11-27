@@ -1,5 +1,5 @@
 # Wobble
-*Stress bij ouders reduceren, door driftbuien/emoties bij kinderen te reguleren.* 
+*Reduce stress on parents, by regulating tantrums and emotions from children.* 
 
 Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
@@ -23,7 +23,7 @@ Max 200 words. Describe the project and answer these questions:
   <img src="img/hero_example.png" width="100%">
 </p>
 
-## Introductie
+## Introduction
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
@@ -31,7 +31,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
 
-## Inhoudstafel
+## Content table
 
 1. [Methodology](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
