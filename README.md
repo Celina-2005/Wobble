@@ -5,11 +5,7 @@ Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-<<<<<<< HEAD
 *Dag/Maand/Jaar since the last update*   
-=======
-*19/11/2025 van de laatste update*   
->>>>>>> 02d6846b226a87e8aa1cb2f023cfe35a05fca938
 
 ## Sumary
 Max 200 words. Describe the project and answer these questions:
@@ -61,7 +57,7 @@ We translated all the texts with the help of AI.
 * User testing wave 2: Colortest (N=x)
   * [Protocol](url)
   * [Rapport](url)
-* User testing wave 3: Emotional roleplay (N=x)
+* User testing wave 3: Interaction Test (N=x)
   * [Protocol](url)
   * [Rapport](url)
 
