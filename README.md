@@ -5,10 +5,10 @@ Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+*Dag/Maand/Jaar since the last update*   
 
-## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+## Sumary
+Max 200 words. Describe the project and answer these questions:
 
 - Wat is het probleem?
 - Hoe heb je dit onderzocht?
@@ -24,23 +24,26 @@ Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
+When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
+
+
 ## Inhoudstafel
 
-1. [Methodologie](./docs/methodologie.md)
+1. [Methodology](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 
-## Kritische reflectie
+## Critical reflections
 Max. 500 woorden
 
-## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+## Note in regards of AI
+We translated all the texts with the help of AI.
 
-## Bijlagen
+## Attachments
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literature research (N=x)
   * [Protocol](url)
   * [Rapport](url)
 * Interviews (N=x)
@@ -48,22 +51,23 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](url)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1: Facial expressions (N=x)
   * [Protocol](url)
   * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 2: Colortest (N=x)
+  * [Protocol](url)
+  * [Rapport](url)
+* User testing wave 3: Emotional roleplay (N=x)
   * [Protocol](url)
   * [Rapport](url)
 
-## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
-
+## License  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
 - **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)
   
-You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
+You cannot reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
