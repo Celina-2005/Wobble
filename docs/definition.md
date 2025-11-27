@@ -32,7 +32,7 @@ Om deze vragen te beantwoorden, werd gewerkt met low- en mid-fidelity prototypes
 
 
 #### Test 1. Facial Expressions
-Doel : bepalen hoe eenvoudig maar toch duidelijk het Wobble-gezicht moet worden vormgegeven.
+Goal : investigating which facial expressions and emotions are perceived as connected by children between the ages of 2 and 5, and which expressions we should use in the design of Wobble.
 
 Kinderen bekeken meer dan 30 variaties van gezichtsuitdrukkingen.
 * 4–5 jaar: kinderen maakten eigen categorieën en benoemden emoties.
