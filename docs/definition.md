@@ -34,23 +34,26 @@ Om deze vragen te beantwoorden, werd gewerkt met low- en mid-fidelity prototypes
 #### Test 1. Facial Expressions
 Goal : investigating which facial expressions and emotions are perceived as connected by children between the ages of 2 and 5, and which expressions we should use in the design of Wobble.
 
-Kinderen bekeken meer dan 30 variaties van gezichtsuitdrukkingen.
-* 4–5 jaar: kinderen maakten eigen categorieën en benoemden emoties.
-* 2–3 jaar: kregen vooraf bepaalde categorieën (blij, boos, bang, verdrietig).
-Daarna kozen ze via dot voting welke variant per categorie het meest en minst intens aanvoelde. Dit leverde inzichten op in de leesbaarheid van ogen, de rol van wenkbrauwen en de mate waarin minimalistische gezichten voldoende expressief zijn.
+Children get to look at more than 30 variations of facial expressions.
+* Ages 4–5: children are expected to create their own categories and label them with emotions.
+* Ages 2–3: are given predefined categories (happy, angry, scared, sad).
+Afterwards, they use dot voting to choose which variant in each category they like the most or least. This provides insights into the readability of the eyes, the role of eyebrows, the extent to which minimalist faces are sufficiently expressive, and which facial expressions are preferred.
 
 #### Test 2. Interaction Test
-Doel : achterhalen welke sensorische kenmerken de Wobble moet gebruiken om natuurlijke en betekenisvolle interacties uit te lokken.
+Goal : Determine which sensory features Wobble should use to elicit natural and meaningful interactions.
 
-Een prototype-personage werd geïntroduceerd en in een korte situatie geplaatst (verdriet, angst, boosheid, vreugde). De eerste reactie van het kind werd gedetailleerd geobserveerd en gecodeerd, zoals :
-* troostgedrag (knuffelen, aaien, vasthouden);
-* praten tegen het object of vragen stellen;
-* onzekerheid, afstand of bang gedrag;
-* lachen of onverschilligheid;
-* functioneel gebruik van het object.
-We vergeleken deze reacties per leeftijdsgroep en geslacht, én keken of kinderen het object gingen personifiëren (het een naam geven, ermee praten alsof het leeft).
+
+A prototype character is introduced and placed in a brief scenario (sadness, fear, anger, joy). The children’s initial reactions are carefully observed and coded, such as:
+* Comforting behavior (hugging, petting, holding);
+* Talking to the object or asking questions;
+* Uncertainty, keeping distance, or fearful behavior;
+* Laughing or indifference;
+* Functional use of the object.
+We compare these reactions by age group and gender, and also examine whether children personified the object (giving it a name, talking to it as if it were alive).
 
 #### Test 3. Colortest
+Goal: 
+
 Bij elke kleur doorliepen kinderen dezelfde stappen:
 * benoemen van associaties;
 * aangeven van het gevoel (positief/negatief);
