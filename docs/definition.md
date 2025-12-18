@@ -52,16 +52,35 @@ A prototype character is introduced and placed in a brief scenario (sadness, fea
 We compare these reactions by age group and gender, and also examine whether children personified the object (giving it a name, talking to it as if it were alive).
 
 #### Test 3. Colortest
-Goal: 
+Goal: Determine which colors Wobble should use for its emotional light signals.
 
-Bij elke kleur doorliepen kinderen dezelfde stappen:
-* benoemen van associaties;
-* aangeven van het gevoel (positief/negatief);
-* plaatsen op een emoji-emotieschaal.
-Zo werd duidelijk welke kleuren rustgevend, opwindend of “druk” aanvoelen voor kinderen.
-Doel: bepalen welke kleuren Wobble moet gebruiken in zijn emotionele lichtsignalen.
+For each color, the children go through the same steps:
+* Naming associations;
+* Indicating the feeling (positive/negative);
+* Placing it on an emoji-emotion scale.
+This clarifies which colors feel calming, exciting, or overwhelming to children.
+
 
 ### Results
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+The group from the second kindergarten class created many more categories than the groups from the first class and appeared to influence each other quickly. Overall, four of Ekman’s six basic emotions spontaneously emerged during the card-sorting activity with the facial expressions. Many children had difficulty categorizing certain facial expressions, which sometimes resulted in cards being placed in seemingly random categories. Nevertheless, the grouping of similar facial expressions generally reflected which emotions were recognizable to the children. Preferences for favorite and least favorite facial expressions were highly individual, and the votes did not exhibit any clear patterns.
+
+
+
+
 ### Conclusions & implications
 Definieer de belangrijkste designbeslissingen.
+
+Children can quickly name a few basic emotions. As they grow older, they learn to recognize more emotions. Recognizing emotions based on eyes alone is difficult, whereas emotions involving eyebrows are recognized more quickly. Therefore, it is essential that Wobble has both eyes and eyebrows, so that children can accurately identify the emotions, especially when the expressions are combined with a color in a specific context.
+Following guidelines were defined based on the card sorting activity:
+| Facial expression                     | Guidelines                                   | 
+|-------------------------------|----------------------------------------|
+| **Fear**       | Large eyes with raised eyebrows |
+| **Sadness** | Curved eyebrows angled towards the eyes |
+| **Sleeping Wobble**             | Lines to represent closed eyes, with "zzz" written on the side |
+| **Confusion**             | Lack of eye contact, achieved by having Wobble look around |
+
+When Wobble is happy, we will give him a neutral facial expression that has not appeared in the conclusions for the other emotions listed above.
+When Wobble is angry, we will use low eyebrows slanting inward.
+The children will be able to identify Wobble's emotion based on the context and color.
