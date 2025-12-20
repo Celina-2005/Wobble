@@ -124,4 +124,4 @@ Based on the results, the following design decisions were established:
 These implications led directly to the Wobble concept: an empathetic, interactive object that mirrors the child's behavior and emotions, thus encouraging self-regulation.
 
 > [!IMPORTANT]
-> An overview of the product requirements can be found under [Design Requirements](./docs/design_requirements.md).
+> An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
