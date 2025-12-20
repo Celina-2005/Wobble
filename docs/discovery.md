@@ -1,77 +1,77 @@
 # Discovery
 
-## Doestellingen
+## Objectives
 
-#### Hoofddoel
-Het doel van dit onderzoek was het identificeren van de belangrijkste oorzaken van opvoedstress bij ouders van kinderen tussen 2 en 5 jaar, met als einddoel het formuleren van een relevant en haalbaar startconcept voor een fysiek-elektronisch product dat deze stress helpt verminderen.
+#### Main objective
+The aim of this study was to identify the main causes of parenting stress among parents of children aged 2 to 5, with the ultimate goal of formulating a relevant and feasible starting concept for a physical-electronic product that helps reduce this stress.
 
-#### Onderzoeksvraag
-Welke factoren veroorzaken de meeste opvoedstress bij ouders van kinderen van 2 tot 5 jaar, en hoe kunnen deze inzichten vertaald worden naar concrete ontwerpbeslissingen?
+#### Research question
+Which factors cause the most parenting stress among parents of children aged 2 to 5, and how can these insights be translated into concrete design decisions?
 
-#### Deelvragen
-- In welke dagelijkse situaties ervaren ouders de meeste opvoedstress?
-- Welke stressfactoren komen consistent terug in zowel literatuur als praktijk?
-- Welke van deze stressoren zijn beïnvloedbaar via productontwerp?
-- In welke context (tijdstip, locatie, interactie) moet een ondersteunend product functioneren?
+#### Sub-objectives
+- In which daily situations do parents experience the most parenting stress?
+- Which stressors are consistently found in both literature and practice?
+- Which of these stressors can be influenced through product design?
+- In what context (time, location, interaction) should a supporting product function?
 
----
 
-## Materiaal & methoden
-Het onderzoek werd opgezet als een mixed-methods Discovery-fase, bestaande uit drie opeenvolgende onderdelen: literatuurstudie, enquêteonderzoek en een vergelijkende analyse.
 
-#### Literatuurstudie
-- Aantal bronnen: N = 8
-- Type bronnen: peer-reviewed artikelen, theses en één systematische review
-- Selectie via Google Scholar, Consensus.app en Elsevier
-- Inclusiecriteria: ouders van jonge kinderen (0–6 jaar), voldoende steekproefomvang, gebruik van gevalideerde meetinstrumenten (PSI, NOSIK)
+## Materials & Methods
+The study was designed as a mixed-methods Discovery phase, consisting of three consecutive components: literature review, survey research, and a comparative analysis.
 
-De geïdentificeerde stressfactoren werden geëxtraheerd en geclusterd in terugkerende situaties.
+#### Literature Review
+- Type of sources: peer-reviewed articles, theses, and one systematic review **(N = 8)**
+- Selection via Google Scholar, Consensus.app, and Elsevier
+- Inclusion criteria: parents of young children (ages 0–6), sufficient sample size, use of validated measurement instruments (PSI, NOSIK)
 
-#### Enquêteonderzoek
-- Respondenten: ouders van kinderen 2–5 jaar (N = 21)
-- Gemiddelde ouderleeftijd: 36 jaar
-- Dataverzameling: digitale enquête, anoniem en vrijwillig
-- Respondenten konden meerdere stresssituaties aanduiden
-- Extra vragen rond gebruikscontext en voorkeuren voor een mogelijk product
+The identified stressors were extracted and clustered into recurring situations.
 
-### Analyse-aanpak
-- Frequentieanalyse per stressfactor
-- Analyse van samen voorkomende stresssituaties
-- Vergelijking tussen literatuurresultaten en enquêteresultaten
-- Vertaling van inzichten naar design requirements
+#### Survey Research
+- Respondents: parents of children aged 2–5 **(N = 21)**
+- Average parent age: 36 years
+- Data collection: digital survey, anonymous and voluntary
+- Respondents could indicate multiple stress situations
+- Additional questions regarding usage context and preferences for a potential product
+
+### Analysis Approach
+- Frequency analysis per stress factor
+- Analysis of co-occurring stress situations
+- Comparison between literature and survey results
+- Translation of insights into design requirements
 
 > [!Note]
 > The full approach to the tests and interviews can be found in the Design Protocol.
 > [D1. Discovery_Protocol_Rootsaert_Selena](<../../../1. Discovery/Bijlagen/Engels/D1. Discovery_Protocol_Rootsaert_Selena.docx>)
 
----
 
-## Resultaten
 
-#### Resultaten literatuurstudie
-Zes terugkerende stresssituaties werden geïdentificeerd en geclusterd:
+## Results
 
-- Driftbuien of moeilijk gedrag
-- Eetmomenten
-- Huishoudtaken combineren met kindzorg
-- Avondroutine
-- Ochtenden (tijdsdruk)
-- Buitenshuis-activiteiten
+#### Literature review results
+Six recurring stressful situations were identified and clustered:
 
-Driftbuien en gedragsproblemen kwamen het meest consistent voor in de literatuur, gevolgd door eetmomenten en huishoudelijke belasting.
+- Tantrums or challenging behavior
+- Mealtimes
+- Combining household chores with childcare
+- Evening routine
+- Mornings (time pressure)
+- Outdoor activities
 
-#### Resultaten enquête
-Uit de enquête bleek dat ouders in de praktijk vooral stress ervaren tijdens:
-- Ochtenden (hoogste score)
-- Driftbuien of moeilijk gedrag
-- Avondroutine en huishoudtaken in mindere mate
+Tantrums and behavioral problems were the most consistently found in the literature, followed by mealtimes and household demands.
 
-Daarnaast gaf circa 80% van de respondenten aan dat een ondersteunend product bij voorkeur thuis gebruikt wordt, tijdens bestaande routines.
+#### Survey results
+The survey showed that parents, in practice, experience stress most frequently during:
+- Mornings (highest score)
+- Tantrums or challenging behavior
+- Evening routines and, to a lesser extent, household chores
+
+In addition, approximately 80% of respondents indicated that a support product is preferred at home, during established routines.
 
 <p align="center">
 Table 1. Stress factors overview matrix (Dutch)
 </p>
 
+<p align="center">
 
 |                       | Ochtenden | Avondroutine | Eetmomenten | Driftbuien | Huishoudtaken | Buitenshuis |
 |-----------------------|-----------|--------------|-------------|------------|---------------|-------------|
@@ -82,14 +82,15 @@ Table 1. Stress factors overview matrix (Dutch)
 | **Huishoudtaken**     | 3         | 1            | 1           | 5          | –             | 1           |
 | **Buitenshuis**       | 0         | 0            | 0           | 1          | 1             | –           |
 
+</p>
 
-### Vergelijkende analyse
-- Driftbuien/moeilijk gedrag: hoge en consistente stressfactor in beide datasets
-- Ochtenden: sterk onderschat in literatuur, maar dominant in praktijk
-- Eetmomenten: belangrijker in literatuur dan in praktijk
-- Buitenshuis-activiteiten: marginaal in beide onderzoeken
+### Comparative analysis
+- Tantrums/difficult behavior: a high and consistent stressor in both datasets
+- Mornings: significantly underestimated in the literature, but dominant in practice
+- Mealtimes: more important in the literature than in practice
+- Outdoor activities: marginal in both studies
 
-Dit wijst op een cumulatief stresspatroon rond overgangsmomenten (opstaan, naar bed gaan, gedragsescalaties).
+This indicates a cumulative stress pattern around transitional moments (waking up, going to bed, behavioral escalations).
 
 <p align="center">
 Table 2. Comparison Research Data (Dutch) 
@@ -97,30 +98,30 @@ Table 2. Comparison Research Data (Dutch)
 
 ![Table](image.png)
 
+
 > [!Note]
 > The full details of the tests and results can be found in the Design Report.
 > [D1. Discovery_Report_Rootsaert_Selena](<../../../1. Discovery/Bijlagen/Engels/D1. Discovery_Report_Rootsaert_Selena.docx>)
 
----
 
-## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 
-#### Belangrijkste conclusies
+## Conclusions & Implications
 
-- De grootste opvoedstress ontstaat tijdens tijdskritische routines en emotionele escalaties bij kinderen.
-- Producten die het kind ondersteunen in zelfregulatie zijn effectiever dan producten die de ouder instrueren.
-- Stressvermindering ontstaat wanneer verantwoordelijkheid subtiel verschuift van ouder naar kind, zonder schuld of correctie.
+#### Key conclusions
 
-#### Design-implicaties (kernbeslissingen)
-Op basis van de resultaten werden volgende ontwerpbeslissingen vastgelegd:
-- Focus op ondersteuning van het kind, niet op controle van de ouder
-- Inzetbaar tijdens ochtend- en avondroutines
-- Handsfree of minimale interactie voor de ouder
-- Kalme, voorspelbare feedback via licht, geluid en gedrag
-- Permanent aanwezig in de thuisomgeving
+- The greatest parenting stress occurs during time-critical routines and emotional escalations in children.
+- Products that support the child in self-regulation are more effective than products that instruct the parent.
+- Stress reduction occurs when responsibility subtly shifts from parent to child, without blame or correction.
 
-Deze implicaties leidden rechtstreeks tot het concept Wobble: een empathisch, interactief object dat het gedrag en de emotie van het kind spiegelt en zo zelfregulatie stimuleert.
+#### Design implications
+Based on the results, the following design decisions were established:
+- Focus on supporting the child, not on controlling the parent
+- Can be used during morning and evening routines
+- Hands-free or minimal interaction for the parent
+- Calm, predictable feedback through light, sound, and behavior
+- Permanent presence in the home environment
+
+These implications led directly to the Wobble concept: an empathetic, interactive object that mirrors the child's behavior and emotions, thus encouraging self-regulation.
 
 > [!IMPORTANT]
 > An overview of the product requirements can be found under [Design Requirements](./docs/design_requirements.md).
