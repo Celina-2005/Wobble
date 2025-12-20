@@ -24,7 +24,9 @@ Leg uit welke testen werden uitgevoerd.
 
 To answer these questions, low- and mid-fidelity prototypes were used, each testing one specific part of the design.
 
-![gebruikte materiaal](https://github.com/user-attachments/assets/2e417d9d-7913-4536-9d66-74318b0a13c8)
+<p align="center">
+ <img src="[gebruikte materiaal](https://github.com/user-attachments/assets/2e417d9d-7913-4536-9d66-74318b0a13c8)" width=50% height=50%>
+</p>
 
 <p align="center">
   <img src="https://ugentbe.sharepoint.com/:i:/t/Group.course1292872/IQC0V8ziec8FT4UGWI-O4DGTAe2RhYy_4uVl23lbZc3OwsA?e=aytl9c" width="100%">
