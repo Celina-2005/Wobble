@@ -24,11 +24,13 @@ Leg uit welke testen werden uitgevoerd.
 
 Om deze vragen te beantwoorden, werd gewerkt met low- en mid-fidelity prototypes die elk één specifiek onderdeel van het ontwerp toetsten.
 
-| Prototype                     | Goal                                   | assessment                                                      |
-|-------------------------------|----------------------------------------|------------------------------------------------------------------|
-| **30+ cards with facial expressions**       | Understand how childeren recognise emotions and categorise them | readability of facial expressions, intensity, preference for variants |
-| **teddy bear / pillow / figure on box** | Observation from natural social behavior | Comfort behaviour, personification, distance/approximation, usage behaviour |
-| **Color cards**             | Researching emotional color associations | Positive/negative feelings, recognition, putting it on an emotion scale |
+Bij het testen van de facial expressions werden meer dan 30 kaartjes gemaakt, deze bevatten elke een facial expression bestaande uit ogen en wenkbrauwen of enkel ogen. Zo kunnen we observeren of de kinderen de simpele gezichtsuitdrukkingen snappen. We kunnen aan de hand van card sorting zien of ze ieder kaartje kunnen categoriseren en welke emoties de kinderen spontaan al kunnen benoemen. Het is ook belangrijk om uit de gesorteerde kaartjes conclusies te trekken om de beslissing van Wobble zijn gezichtsuitdrukkingen te valideren.
+
+| Prototype                     | Goal                                   | assessment                                              | Method                     |
+|-------------------------------|----------------------------------------|----------------------------------------------------------|--------------------------|
+| **30+ cards with facial expressions**       | Understand how childeren recognise emotions and categorise them | readability of facial expressions, intensity, preference for variants |Card sorting and dot voting |
+| **teddy bear / pillow / figure on box** | Observation from natural social behavior | Comfort behaviour, personification, distance/approximation, usage behaviour | Observation |
+| **Color cards**             | Researching emotional color associations | Positive/negative feelings, recognition, putting it on an emotion scale | "Dot" Voting with the colors |
 
 
 #### Test 1. Facial Expressions
