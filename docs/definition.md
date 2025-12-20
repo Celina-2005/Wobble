@@ -23,9 +23,11 @@ Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzo
 Leg uit welke testen werden uitgevoerd.
 
 To answer these questions, low- and mid-fidelity prototypes were used, each testing one specific part of the design.
-![ae874f07-3fb1-4682-ab38-a6a533ce1b26](https://github.com/user-attachments/assets/ce35101b-9318-418a-819e-2f89c7d410dd)
 
-![gebruikte materiaal](https://github.com/user-attachments/assets/ff0109c5-1873-48ba-89c9-63f73127b652)
+<p align="center">
+![ae874f07-3fb1-4682-ab38-a6a533ce1b26](https://github.com/user-attachments/assets/ce35101b-9318-418a-819e-2f89c7d410dd)
+</p>
+
 
 <p align="center">
   <img src="https://ugentbe.sharepoint.com/:i:/t/Group.course1292872/IQC0V8ziec8FT4UGWI-O4DGTAe2RhYy_4uVl23lbZc3OwsA?e=aytl9c" width="100%">
