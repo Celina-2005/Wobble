@@ -52,13 +52,13 @@ We translated all the texts with the help of AI.
     
 ### Definition
 * User testing wave 1: Facial expressions (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
   * [Rapport](url)
 * User testing wave 2: Colortest (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
   * [Rapport](url)
 * User testing wave 3: Interaction Test (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
   * [Rapport](url)
 
 ## License  
