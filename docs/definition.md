@@ -25,6 +25,10 @@ Leg uit welke testen werden uitgevoerd.
 Om deze vragen te beantwoorden, werd gewerkt met low- en mid-fidelity prototypes die elk één specifiek onderdeel van het ontwerp toetsten.
 
 Bij het testen van de facial expressions werden meer dan 30 kaartjes gemaakt, deze bevatten elke een facial expression bestaande uit ogen en wenkbrauwen of enkel ogen. Zo kunnen we observeren of de kinderen de simpele gezichtsuitdrukkingen snappen. We kunnen aan de hand van card sorting zien of ze ieder kaartje kunnen categoriseren en welke emoties de kinderen spontaan al kunnen benoemen. Het is ook belangrijk om uit de gesorteerde kaartjes conclusies te trekken om de beslissing van Wobble zijn gezichtsuitdrukkingen te valideren.
+<p align="center">
+  <img src="https://ugentbe.sharepoint.com/:i:/t/Group.course1292872/IQC0V8ziec8FT4UGWI-O4DGTAe2RhYy_4uVl23lbZc3OwsA?e=aytl9c" width="100%">
+</p>
+
 
 | Prototype                     | Goal                                   | assessment                                              | Method                     |
 |-------------------------------|----------------------------------------|----------------------------------------------------------|--------------------------|
