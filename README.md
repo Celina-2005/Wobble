@@ -5,7 +5,7 @@ Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*18/12/2025 since the last update*   
+*20/12/2025 since the last update*   
 
 ## Sumary
 Max 200 words. Describe the project and answer these questions:
