@@ -1,9 +1,21 @@
 ## Overzicht van Design Requirements
-|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
-|ID|Design Requirement|Source|Status|
-|:---|:---|:---|:---:|
-|**Algemeen**|
-|1.1|Het product ... |[1.1 Expert interview](url)|❌|
-|1.2|De gebruiker kan ... |[2.1 User test](url)|⚠️|
-|**Deelaspect**|
-|2.1|De pods ... |[2.1 User test](url)|✅|
+
+In this table, **Design Requirements (DRs)** define the essential conditions the product must fulfill to effectively reduce parenting stress. They are directly derived from research findings and describe *what the product must support*.
+
+**Design Ideas (DIs)** are optional guidelines or suggestions that can be considered if time, resources, or technical feasibility allow. They propose potentially valuable directions that may enhance the design but are not mandatory and do not constrain the core requirements.
+
+
+| No. | Requirement Description | Source | Date |
+|----|--------------------------|--------|------|
+|   |**General**   |   |   |
+| 1  | The product should help interrupt stress patterns by supporting the child directly (through calming or distracting stimuli) rather than correcting the parent. This reduces parental pressure and feelings of guilt. | Literature | Oct 2025 |
+| 2  | The product should create a calm and predictable atmosphere during bedtime, using soft light and sound transitions, and optionally a co-parenting feature that makes task division visible. | Literature | Oct 2025 |
+| 3  | Designs that provide temporary task relief (e.g. reminders, automated routines, independent child activity) reduce stress. The product should not require additional actions from the parent. | Literature | Oct 2025 |
+| 4  | The product should provide support during morning and evening routines, where time pressure and behavioral challenges peak. | Survey | Oct 2025 |
+| 5  | The product should respond to children’s resistance or emotions in a non-punitive, guiding manner. | Survey | Oct 2025 |
+| 6  | The product should be usable hands-free or with minimal interaction, allowing parents to use it while engaging with their child. | Survey | Oct 2025 |
+| 7  | The design should be safe, compact, and easy to maintain, tailored to use in a domestic environment. | Survey | Oct 2025 |
+| **DI1** | Where possible, the product should remain permanently present in the home environment (fixed location or docking system) to increase ease of use. | Survey | Oct 2025 |
+| **DI2** | Products should be suitable for multiple children within one household, not only for the youngest child. | Survey | Oct 2025 |
+
+
