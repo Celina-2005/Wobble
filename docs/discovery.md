@@ -41,7 +41,7 @@ The identified stressors were extracted and clustered into recurring situations.
 
 > [!Note]
 > The full approach to the tests and interviews can be found in the Design Protocol.
-> [D1. Discovery_Protocol_Rootsaert_Selena](<../../../1. Discovery/Bijlagen/Engels/D1. Discovery_Protocol_Rootsaert_Selena.docx>)
+> [D1. Discovery_Protocol_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bced13246-a5b9-4a90-ba69-ba7b9f5bedb6%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766311891243&web=1)
 
 
 
@@ -101,7 +101,7 @@ Table 2. Comparison Research Data (Dutch)
 
 > [!Note]
 > The full details of the tests and results can be found in the Design Report.
-> [D1. Discovery_Report_Rootsaert_Selena](<../../../1. Discovery/Bijlagen/Engels/D1. Discovery_Report_Rootsaert_Selena.docx>)
+> [D1. Discovery_Report_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B07066592-c11e-4710-9cd2-73e4e3812c40%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312112114&web=1)
 
 
 
