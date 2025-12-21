@@ -10,8 +10,11 @@ Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project over
 ## Sumary
 ### Semester 1
 Wobble focuses on the problem of **parental stress in raising children aged 2 to 5**, particularly during times when young children struggle with emotional self-regulation. These situations often lead to escalation, with parents experiencing additional pressure, powerlessness, or guilt.
+
 The problem was investigated through a literature review of stressors in parenting, followed by parent surveys. Based on this, one dominant stressor was selected. In a subsequent phase, brainstorming sessions, observations, and additional literature research were used to gain insight into emotion recognition and regulation in young children and to further substantiate the concept.
+
 The proposed solution, **Wobble**, is a **smart, child-focused product** that supports children in recognizing and regulating their emotions. Instead of correcting the parent or imposing additional tasks, Wobble helps the child calm down independently through gentle, playful stimulation.
+
 By actively supporting the child during stressful moments, the intensity and duration of escalations are reduced. This indirectly reduces stress for the parent and creates a more peaceful environment. Wobble thus positions itself as a supportive link between child and parent.
 
 <p align="center">
