@@ -7,7 +7,7 @@ Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project over
 
 *20/12/2025 since the last update*   
 
-## Sumary
+## Summary
 ### Semester 1
 Wobble focuses on the problem of **parental stress in raising children aged 2 to 5**, particularly during times when young children struggle with emotional self-regulation. These situations often lead to escalation, with parents experiencing additional pressure, powerlessness, or guilt.
 
