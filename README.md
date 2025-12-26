@@ -94,7 +94,7 @@ This repository contains both software and design materials created as part of a
 - **Software and code:** [MIT License](./LICENSE-MIT)  
 - **Design, documentation, CAD, and media:** [CC BY 4.0 License](./LICENSE)
   
-You cannot reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
+You cannot reuse and build upon this work, both commercially and non-commercially.
 
 ## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
