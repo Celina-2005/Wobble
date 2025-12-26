@@ -78,15 +78,15 @@ We translated all the texts with the help of AI.
   * [B.2 Enquete - Analyse](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B9f2f26be-f33a-44e6-b751-ac7fd0bcc098%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312713909&web=1)
     
 ### Definition
-* User testing wave 1: Facial expressions (N=x)
+* User testing wave 1: Facial expressions (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
-  * [Rapport](url)
-* User testing wave 2: Colortest (N=x)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
+* User testing wave 2: Colourtest (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
-  * [Rapport](url)
-* User testing wave 3: Interaction Test (N=x)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/2.%20Definition/D2.%20Rapport_Colourtest_De_Bleser_Axelle.docx?d=w31afe442e78e4ed78946c8eaec49cdf0&csf=1&web=1&e=pq5tFK)
+* User testing wave 3: Interaction Test (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
-  * [Rapport](url)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
 
 ## License  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
