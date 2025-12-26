@@ -14,7 +14,7 @@ In this table, **Design Requirements (DRs)** define the essential conditions the
 | 5  | The product must be usable hands-free or with minimal interaction, allowing parents to use it while engaging with their child. | Discovery | Survey | Oct 2025 |
 | 6  | The design must be safe, compact, and easy to maintain, tailored to use in a domestic environment. | Discovery | Survey | Oct 2025 |
 | 7  | The Wobble shall be durable enough to withstand frequent and uncontrolled physical contact by young children. | Definition | Observation | Dec 2025 |
-| 8  | The Wobble shall be washable or easily cleanable to meet hygiene requirements in preschool environments. | Definition | Observation | Dec 2025 |
+| 8  | The Wobble shall be washable or easily cleanable to meet hygiene requirements. | Definition | Observation | Dec 2025 |
 | **DI1** | Designs that provide temporary task relief (reminders, automated routines, independent child activity) reduce stress. The product must not require additional actions from the parent. | Discovery | Literature | Oct 2025 |
 | **DI2**  | The product must create a calm, predictable atmosphere during bedtime, using soft light and sound transitions, and optionally a co-parenting feature that makes task division visible. | Discovery | Literature | Oct 2025 |
 | **DI3** | Products should be suitable for multiple children within one household, not only for the youngest child. | Discovery | Survey | Oct 2025 |
