@@ -22,8 +22,8 @@ In this table, **Design Requirements (DRs)** define the essential conditions the
 | 1  | The Wobble shall have a basic, abstract form positioned between a cube and a sphere to avoid familiarity while remaining approachable. | Discovery | Observation | Dec 2025 |
 | 2  | The Wobble shall have a clear front orientation to support face-to-face interaction. | Discovery | Observation | Dec 2025 |
 | 3  | The Wobble shall communicate emotions through minimal visual cues such as eyes, with optional eyebrows for emotional clarity. | Discovery | Observation | Dec 2025 |
-| 4  | The Wobble has to communicate through facial expressions with eyes and eyebrows for emotional clarity | Definition | Card sorting | Dec 2025 |
-| 5  | The facial expressions have to follow the guidelines written in the Facial expressions rapport to make the right emotions clear to the children | Definition | Card sorting | Dec 2025 |
+| 4  | The Wobble has to communicate through facial expressions with eyes and eyebrows for emotional clarity. | Definition | Card sorting | Dec 2025 |
+| 5  | The facial expressions have to follow the guidelines written in the Facial expressions rapport to make the right emotions clear to the children. | Definition | Card sorting | Dec 2025 |
 |    | **Technology** |  |  |  |
 | 1  | The Wobble shall include haptic sensors to detect touch-based interactions such as petting, hugging, and sustained pressure. | Discovery | Observation | Dec 2025 |
 | 2  | The Wobble may include audio sensors primarily as an initial environmental or interaction trigger rather than for verbal input. | Discovery | Observation | Dec 2025 |
