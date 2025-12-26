@@ -25,9 +25,12 @@ Leg uit welke testen werden uitgevoerd.
 To answer these questions, low- and mid-fidelity prototypes were used, each testing one specific part of the design.
 
 
+
 <p align="center">
-  <img src="https://ugentbe.sharepoint.com/:i:/t/Group.course1292872/IQC0V8ziec8FT4UGWI-O4DGTAe2RhYy_4uVl23lbZc3OwsA?e=aytl9c" width="100%">
+<img src="https://github.com/user-attachments/assets/fcc5137f-1e1f-4563-8a66-2e927d6b8d8c" width=50% height=50%>
 </p>
+
+
 
 
 | Prototype                     | Goal                                   | assessment                                              | Method                     |
