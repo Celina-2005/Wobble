@@ -39,6 +39,10 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
+We want to create a product that fosters a calm home environment. To achieve this, Wobble should guide children in a low-stimulus way, relieving parents of that burden. It must be hands-free and able to recognize cues it should respond to, such as when a child calls out. It’s important that Wobble is easy to clean and safe for children.
+
+With a simple form, light colors, and minimal facial expressions, children will learn the consequences of their behavior and develop a sense of responsibility for their own actions.
+
 
 ## Content table
 
