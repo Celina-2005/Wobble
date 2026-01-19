@@ -17,7 +17,7 @@ In October, a **field study as survey (N=21)** followed with parents of children
 
 ### Definition Phase – Concept Delineation and Validation (November – January)
 The Definition Phase focuses on deepening and testing the chosen concept. In November, a divergent brainstorming phase was initiated based on the design requirements from Discovery. This phase explored key factors, interaction principles, and potential solutions. Parallel to this, test protocols were developed for field research.
-In December, **field studies as waves (N=29)** were conducted on emotion skills and emotion recognition in children aged 2 to 5. This convergent phase yielded less relevant data than expected. Therefore, a supplementary, divergent literature review was conducted to fill in the gaps and strengthen the concept's foundation.
+In December, **field studies as waves (N=29)** were conducted on emotion skills and emotion recognition in children aged 2 to 5. This convergent phase had less relevant data than expected, mostly in the colourtest. Therefore, a supplementary, divergent literature review was conducted to fill in the gaps and strengthen the concept's foundation withing the colour analysis (N=2). So the focus in the definition phase fell the focus on formulating the design requirements for future prototyping. 
 
 
 ### Evolution of Prototypes

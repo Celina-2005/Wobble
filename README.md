@@ -33,9 +33,6 @@ Max 200 words. Describe the project and answer these questions:
 - Hero sketch/render/image, vb.
 
 ## Introduction
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
@@ -43,6 +40,10 @@ We want to create a product that fosters a calm home environment. To achieve thi
 
 With a simple form, light colors, and minimal facial expressions, children will learn the consequences of their behavior and develop a sense of responsibility for their own actions.
 
+---
+Max 300 woorden.
+Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
+Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Content table
 
@@ -53,12 +54,13 @@ With a simple form, light colors, and minimal facial expressions, children will 
 5. [Bill of materials](./docs/bom.md)
 
 ## Critical reflections
-Max. 500 woorden
-
 We got started very quickly, which gave us enough time for everything. This allowed us to thoroughly go through all the results and conduct additional literature research for the colour test. We are both highly motivated to design Wobble in a thoughtful way, which leads to good collaboration and smooth brainstorming sessions.
 
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
 
+---
+
+Max. 500 woorden
 
 ## Note in regards of AI
 We translated all the texts with the help of AI.

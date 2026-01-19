@@ -18,11 +18,14 @@ In this table, **Design Requirements (DRs)** define the essential conditions the
 | **DI1** | Designs that provide temporary task relief (reminders, automated routines, independent child activity) reduce stress. The product must not require additional actions from the parent. | Discovery | Literature | Oct 2025 |
 | **DI2**  | The product must create a calm, predictable atmosphere during bedtime, using soft light and sound transitions, and optionally a co-parenting feature that makes task division visible. | Discovery | Literature | Oct 2025 |
 | **DI3** | Products should be suitable for multiple children within one household, not only for the youngest child. | Discovery | Survey | Oct 2025 |
-|    | **Communication** |  |  |  |
+|    | **Form and Shape** |  |  |  |
 | 1  | The Wobble shall have a basic, abstract form positioned between a cube and a sphere to avoid familiarity while remaining approachable. | Definition | Observation | Dec 2025 |
 | 2  | The Wobble shall have a clear front orientation to support face-to-face interaction. | Definition | Observation | Dec 2025 |
-| 3  | The Wobble has to communicate through facial expressions with eyes and eyebrows for emotional clarity. | Definition | Card sorting | Dec 2025 |
-| 4  | The facial expressions have to follow the guidelines written in the Facial expressions rapport to make the right emotions clear to the children. | Definition | Card sorting | Dec 2025 |
+|    | **Communication** |  |  |  |
+| 1  | The Wobble has to communicate through facial expressions with eyes and eyebrows for emotional clarity. | Definition | Card sorting | Dec 2025 |
+| 2  | The facial expressions have to follow the guidelines written in the Facial expressions rapport to make the right emotions clear to the children. | Definition | Card sorting | Dec 2025 |
+| 3 | Colour is used as supportive and affective feedback, not as a primary means of communicating specific emotions.| Definition | Observation + Literature | Jan 2026|
+| 4  | Colour feedback is always combined with sound and facial expression to clarify emotional interpretation in young children.| Definition | Observation | Jan 2026|
 | **DI4** | Wobble could have multiple facial expressions for each emotion so that each child can select the preferred expressions. | Definition | Dot Voting | Dec 2025 |
 |    | **Technology** |  |  |  |
 | 1  | The Wobble shall include haptic sensors to detect touch-based interactions such as petting, hugging, and sustained pressure. | Definition | Observation | Dec 2025 |
