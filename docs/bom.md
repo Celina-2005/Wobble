@@ -1,17 +1,17 @@
 ## Bill of materials
 
-| Functie    | Onderdelen / materialen (low-budget)| Complexiteit | Prioriteit |
+| Function | Components/Materials (low-budget) | Complexity | Priority |
 | ---------- | ----------------------------------- | ------------ | ---------- |
-| Haptische interactie (knuffelen, aanraking) | Druksensoren (FSR), capacitive touch sensors, zachte vulling (schuim/fiberfill), fleece of stretchstof, optioneel vibratiemotor | Laag–middel  | Zeer hoog  |
-| Visuele feedback – gezichtsuitdrukkingen    | Kleine LED-matrix of eenvoudig LCD/OLED-scherm, microcontroller (Arduino / ESP32)                                               | Middel       | Hoog       |
-| Auditieve feedback (reactiegeluiden)        | Kleine speaker, buzzer, geluidsmodule (DFPlayer Mini), microSD-kaart                                                            | Laag         | Middel     |
-| Kleur als visuele cue                       | RGB-LEDs of LED-strip                                                                                                           | Laag         | Laag       |
-| Behuizing (functioneel)                     | 3D-geprinte behuizing of foam/kartonstructuur, textielcover                                                                     | Laag         | Laag       |
+| Haptic interaction (hugging, touch) | Pressure sensors (FSR), capacitive touch sensors, soft filling (foam/fiberfill), fleece or stretch fabric, optional vibration motor | Low–medium | Very high |
+| Visual feedback – facial expressions | Small LED matrix or simple LCD/OLED screen, microcontroller (Arduino / ESP32) | Medium | High |
+| Auditory feedback (response sounds) | Small speaker, buzzer, sound module (DFPlayer Mini), microSD card | Low | Medium |
+| Color as visual cue | RGB LEDs or LED strip | Low | Low |
+| Housing (functional) | 3D-printed housing or foam/cardboard structure, textile cover | Low | Low |
 
 
-#### Verantwoording van de prioriteit
+#### Justification for Priority
 
-De prioritering is gebaseerd op de resultaten van de kindertesten en de doelstelling om in het volgende semester een functioneel en testbaar prototype te realiseren. Haptische interactie heeft de hoogste prioriteit omdat kinderen bij negatieve emoties spontaan troosten via aanraking. Visuele feedback via gezichtsuitdrukkingen volgt, aangezien deze duidelijker en betekenisvoller bleek dan kleur alleen. Auditieve feedback fungeert als ondersteunende modaliteit en is technisch laagdrempelig. Kleur en behuizing worden als secundair beschouwd en dienen voornamelijk ter versterking van aandacht en beleving, eerder dan als primaire communicatielaag.
+The prioritization is based on the results of the children's tests and the goal of creating a functional and testable prototype in the next semester. Haptic interaction has the highest priority because children spontaneously soothe themselves through touch when experiencing negative emotions. Visual feedback through facial expressions follows, as this proved to be clearer and more meaningful than color alone. Auditory feedback serves as a supporting modality and is technically accessible. Color and casing are considered secondary and serve primarily to enhance attention and experience, rather than as a primary communication layer.
 
 ---
 
