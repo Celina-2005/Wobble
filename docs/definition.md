@@ -2,6 +2,12 @@
 Max. 1000 woorden.    
 [!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
 
+The definition phase was carried out to understand how young children interpret and recognize emotions through colors, facial expressions, and interactions, as it is important that Wobble can communicate its emotions clearly and understandably to the children. This was examined by drawing facial expressions on cards and having the children sort them. The association between colors and emotions was also studied through card sorting. Using dot voting, we observed whether there were any universally preferred facial expressions.
+
+We clearly saw that there are no universally preferred facial expressions among the children — this is very personal to each child. Therefore, we think it would be nice to include an option in the app that allows children to choose Wobble’s facial expressions themselves, so that every child has a pleasant experience. The colors were mainly linked to personal experiences, and studies show that children do not yet have strong associations between colors and emotions. That is why we find it important not to use color as a dominant factor in emotion recognition. Instead, colors should mainly serve as a trigger to show the children that Wobble is communicating something. The associations between colors and emotions will then gradually become stronger as the child grows older.
+
+
+
 ### Goals
 Wat wilde je bereiken in deze fase?    
 Welke deelvragen moesten hiervoor beantwoord worden?
