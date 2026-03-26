@@ -50,8 +50,10 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 1. [Methodology](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
-4. [Design Requirements](./docs/design_requirements.md)
-5. [Bill of materials](./docs/bom.md)
+4. [Develop](./docs/develop.md)
+5. [Delivery](./docs/delivery.md)
+6. [Design Requirements](./docs/design_requirements.md)
+7. [Bill of materials](./docs/bom.md)
 
 ## Critical reflections
 We got started very quickly, which gave us enough time for everything. This allowed us to thoroughly go through all the results and conduct additional literature research for the colour test. We are both highly motivated to design Wobble in a thoughtful way, which leads to good collaboration and smooth brainstorming sessions.
