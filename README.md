@@ -1,6 +1,11 @@
 # Wobble
 *Reduce stress on parents, by regulating tantrums and emotions from children.* 
 
+
+<p align="center">
+  <img src="docs/Wobble_Logo4.png">
+</p>
+
 Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
@@ -27,10 +32,17 @@ By actively supporting the child during stressful moments, the intensity and dur
 
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
+<p align="center">
+  <img src="docs/Storyboard.png" width="400">
+  <br>
+  Figure 2. Storyboard (placeholder - start 2nd semester)
+</p>
+
 We want to create a product that fosters a calm home environment. To achieve this, Wobble should guide children in a low-stimulus way, relieving parents of that burden. It must be hands-free and able to recognize cues it should respond to, such as when a child calls out. It’s important that Wobble is easy to clean and safe for children.
 
 With a simple form, light colors, and minimal facial expressions, children will learn the consequences of their behavior and develop a sense of responsibility for their own actions.
 
+> **Wobble helps children regulate emotions independently, reducing parental stress during tantrums.**
 
 ## Content table
 
@@ -47,8 +59,10 @@ We got started very quickly, which gave us enough time for everything. This allo
 
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
 
-## Note in regards of AI
-We translated all the texts with the help of AI.
+> [!IMPORTANT]
+> Note in regards of AI
+> We translated all the texts with the help of AI.
+
 
 ## Attachments
 ### Discovery
