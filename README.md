@@ -24,6 +24,7 @@ By actively supporting the child during stressful moments, the intensity and dur
 
 <p align="center">
   <img src="Render_Sem1.png" width="500">
+  <br>
   Figure 1. Wobble Render Semester 1
 </p>
 
