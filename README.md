@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="docs/Wobble_Logo4.png">
+  <img src="docs/Wobble_Logo4.png" width="750">
 </p>
 
 Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
@@ -23,7 +23,7 @@ The proposed solution, **Wobble**, is a **smart, child-focused product** that su
 By actively supporting the child during stressful moments, the intensity and duration of escalations are reduced. This indirectly reduces stress for the parent and creates a more peaceful environment. Wobble thus positions itself as a supportive link between child and parent.
 
 <p align="center">
-  <img src="Render_Sem1.png">
+  <img src="Render_Sem1.png" width="500">
   Figure 1. Wobble Render Semester 1
 </p>
 
@@ -33,7 +33,7 @@ By actively supporting the child during stressful moments, the intensity and dur
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
 <p align="center">
-  <img src="docs/Storyboard.png" width="400">
+  <img src="docs/Storyboard.png" width="500">
   <br>
   Figure 2. Storyboard (placeholder - start 2nd semester)
 </p>
