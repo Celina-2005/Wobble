@@ -33,6 +33,12 @@ The identified stressors were extracted and clustered into recurring situations.
 - Respondents could indicate multiple stress situations
 - Additional questions regarding usage context and preferences for a potential product
 
+<p align="center">
+  <img src= "docs/D1_Survey.png" width="250">
+  <br>
+  Figure 2. Survey setup and example questions
+</p>
+
 ### Analysis Approach
 - Frequency analysis per stress factor
 - Analysis of co-occurring stress situations

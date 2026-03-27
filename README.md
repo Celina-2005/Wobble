@@ -61,7 +61,7 @@ We got started very quickly, which gave us enough time for everything. This allo
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
 
 > [!IMPORTANT]
-> Note in regards of AI
+> Note in regards of AI <br>
 > We translated all the texts with the help of AI.
 
 
