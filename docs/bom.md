@@ -13,8 +13,3 @@
 
 The prioritization is based on the results of the children's tests and the goal of creating a functional and testable prototype in the next semester. Haptic interaction has the highest priority because children spontaneously soothe themselves through touch when experiencing negative emotions. Visual feedback through facial expressions follows, as this proved to be clearer and more meaningful than color alone. Auditory feedback serves as a supporting modality and is technically accessible. Color and casing are considered secondary and serve primarily to enhance attention and experience, rather than as a primary communication layer.
 
----
-
-- Welk materiaal heb je nodig voor de laatste versie van je prototype?
-- Maak voor componenten een overzicht met links naar aankooppagina en pricing
-- Wat hebben anderen nodig om dit te maken (zie vb. instructables)?

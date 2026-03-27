@@ -5,7 +5,7 @@ Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*26/12/2025 since the last update*   
+*27/03/2026 since the last update*   
 
 ## Summary
 ### Semester 1
@@ -22,15 +22,6 @@ By actively supporting the child during stressful moments, the intensity and dur
   Figure 1. Wobble Render Semester 1
 </p>
 
----
-
-Max 200 words. Describe the project and answer these questions:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
 
 ## Introduction
 
@@ -40,10 +31,6 @@ We want to create a product that fosters a calm home environment. To achieve thi
 
 With a simple form, light colors, and minimal facial expressions, children will learn the consequences of their behavior and develop a sense of responsibility for their own actions.
 
----
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Content table
 
@@ -59,10 +46,6 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 We got started very quickly, which gave us enough time for everything. This allowed us to thoroughly go through all the results and conduct additional literature research for the colour test. We are both highly motivated to design Wobble in a thoughtful way, which leads to good collaboration and smooth brainstorming sessions.
 
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
-
----
-
-Max. 500 woorden
 
 ## Note in regards of AI
 We translated all the texts with the help of AI.
@@ -110,4 +93,4 @@ This repository contains both software and design materials created as part of a
 You cannot reuse and build upon this work, both commercially and non-commercially.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+
