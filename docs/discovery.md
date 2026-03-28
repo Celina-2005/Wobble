@@ -2,7 +2,7 @@
 <p align="center">
   <img alt="zDiscovery" src="https://github.com/user-attachments/assets/c402f57a-a3a2-4c29-968e-f9197448784a" height="200"/>
   <br>
-  Figure 1. Survey setup and example questions
+  Figure 1. Discovery Overview
 </p>
 
 
@@ -44,7 +44,7 @@ The identified stressors were extracted and clustered into recurring situations.
   <img src= "https://github.com/user-attachments/assets/d9ff10a8-fe6c-42fd-9ac9-5cc20caccd22" height="350">
   <img src= "https://github.com/user-attachments/assets/36983071-0d07-4890-973a-094baf07b291" height="350"/>
   <br>
-  Figure 1. Survey setup and example questions
+  Figure 2. Survey setup and example questions
 </p>
 
 ### Analysis Approach
@@ -107,7 +107,7 @@ This indicates a cumulative stress pattern around transitional moments (waking u
 <p align="center">
   <img src= "image.png" height="250">
   <br>
-  Figure 2. Comparison Research Data Graph (Dutch)
+  Figure 3. Comparison Research Data Graph (Dutch)
 </p>
 
 > [!Note]
@@ -135,7 +135,7 @@ Based on the results, the following design decisions were established:
 <p align="center">
   <img alt="D1_Wobble" src="https://github.com/user-attachments/assets/ab571992-bfe3-4598-91f4-49fbd000b613" height="350">
   <br>
-  Figure 3. Translation from insights to design decisions
+  Figure 4. Translation from insights to design decisions
 </p>
 
 These implications led directly to the Wobble concept: an empathetic, interactive object that mirrors the child's behavior and emotions, thus encouraging self-regulation.
