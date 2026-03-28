@@ -2,9 +2,9 @@
 
 
 <p align="center">
-    <img width="3489" height="1803" alt="Methodologie_Sem1" src="https://github.com/user-attachments/assets/14a326de-3a69-4cb4-b150-b7ba42795356" />
-
-    Figure 1. Methodological Timeline Sem 1 (Discovery & Definition)
+    <img height="350" alt="Methodologie_Sem1" src="https://github.com/user-attachments/assets/14a326de-3a69-4cb4-b150-b7ba42795356" />
+    <br>
+    Figure 1. Methodological Timeline Sem 1 (Placeholder, Discovery & Definition)
 </p>
 
     

@@ -62,15 +62,16 @@ So far, Wobble is an idea that teachers and parents in our environment find very
 
 > [!IMPORTANT]
 > Note in regards of AI <br>
-> We translated all the texts with the help of AI.
+> - We translated all the texts with the help of AI.
+> - AI was used to further structure the text.
 
 
 ## Attachments
 ### Discovery
 * Test Analysis and Results, Literatuur **(N=8)** en Enquêtes **(N=21)**
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bced13246-a5b9-4a90-ba69-ba7b9f5bedb6%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766311891243&web=1)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B07066592-c11e-4710-9cd2-73e4e3812c40%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312112114&web=1)
-* Attachments *(Dutch)* 
+  * [Report](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B07066592-c11e-4710-9cd2-73e4e3812c40%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312112114&web=1)
+* Attachments *(Dutch Analysis)* 
   * [A. Literatuurstudie - Resultaten Verwerking](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bc34b659c-5ccc-452e-bf36-8e8f0e42ccbd%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312562641&web=1)
     * [A.1 The roles of child temperament, parent stress, and parenting style in family mealtimes](https://ugentbe.sharepoint.com/teams/Group.course1292872/Gedeelde%20documenten/General/1.%20Discovery/A.1%20The%20roles%20of%20child%20temperament,%20parent%20stress,%20and%20parenting%20style%20in%20family%20mealtimes.pdf)
     * [A.2 Stress en het opvoeden van een kind - Masterthesis](https://ugentbe.sharepoint.com/teams/Group.course1292872/Gedeelde%20documenten/General/1.%20Discovery/A.2%20Stress%20en%20het%20opvoeden%20van%20een%20kind%20-%20Masterthesis.pdf?CT=1766312664711&OR=ItemsView&wdOrigin=TEAMSFILE.FILEBROWSER.DOCUMENTLIBRARY)
@@ -85,19 +86,19 @@ So far, Wobble is an idea that teachers and parents in our environment find very
   * [B.2 Enquete - Analyse](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B9f2f26be-f33a-44e6-b751-ac7fd0bcc098%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312713909&web=1)
     
 ### Definition
-* User testing wave 1: Facial expressions (N=29)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
-  * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQCPSVM4RStUQad8WMpz9C6SAfVmIxQdfHyUsfueQz8stwg?e=1j3ITG)
-* User testing wave 2: Colourtest (N=29)
+* User testing wave 1: Colourtest (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCiKuJSRuVlRr4PazKVPoMOAYUTUdSXlude2eo4ILDH-JY?e=00H2Qk)
+  * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCiKuJSRuVlRr4PazKVPoMOAYUTUdSXlude2eo4ILDH-JY?e=00H2Qk)
   * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQA-Iia7Az5JRIR0cPlhmmZoAfsf1NpcVpnFugj7QELvu4k?e=HxObNS)
-  * [Bijlage1](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQAw31o8ZLQYQ48Tkzs_nRNPAcNEGuAB0mFxEzQBON0vuJs?e=C7HCYa)
-  * [Bijlage2](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQDWztdkupDWS7ilgrUHk3JZARC_KnWTdjZEa3PhTTrhjzU?e=QUIlx0)
+  * [Attachment1](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQAw31o8ZLQYQ48Tkzs_nRNPAcNEGuAB0mFxEzQBON0vuJs?e=C7HCYa)
+  * [Attachment2](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQDWztdkupDWS7ilgrUHk3JZARC_KnWTdjZEa3PhTTrhjzU?e=QUIlx0)
+* User testing wave 2: Facial expressions (N=29)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
+  * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
+  * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQCPSVM4RStUQad8WMpz9C6SAfVmIxQdfHyUsfueQz8stwg?e=1j3ITG)
 * User testing wave 3: Interaction Test (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
+  * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
 
 ## License  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.

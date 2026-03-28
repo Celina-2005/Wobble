@@ -1,13 +1,12 @@
-## Definition
+# Definition
+
+## Objectives
 
 The definition phase was carried out to understand how young children interpret and recognize emotions through colors, facial expressions, and interactions, as it is important that Wobble can communicate its emotions clearly and understandably to the children. This was examined by drawing facial expressions on cards and having the children sort them. The association between colors and emotions was also studied through card sorting. Using dot voting, we observed whether there were any universally preferred facial expressions.
 
 We clearly saw that there are no universally preferred facial expressions among the children — this is very personal to each child. Therefore, we think it would be nice to include an option in the app that allows children to choose Wobble’s facial expressions themselves, so that every child has a pleasant experience. The colors were mainly linked to personal experiences, and studies show that children do not yet have strong associations between colors and emotions. That is why we find it important not to use color as a dominant factor in emotion recognition. Instead, colors should mainly serve as a trigger to show the children that Wobble is communicating something. The associations between colors and emotions will then gradually become stronger as the child grows older.
 
-### Goals
-Wat wilde je bereiken in deze fase?    
-Welke deelvragen moesten hiervoor beantwoord worden?
-
+#### Main objective
 In this phase, we focused on understanding how young children (ages 2–5) recognize, interpret, and respond to emotions when these are conveyed through simple visual and auditory cues. We aim to determine which forms of expression, colors, and interactions are the most intuitive for this age group. These insights are essential for identifying which sensory elements—such as light, sound, movement, or haptic feedback—Wobble can best use to accurately reflect emotions and effectively support children in self-regulation.
 
 #### Research questions
@@ -19,21 +18,21 @@ In this phase, we focused on understanding how young children (ages 2–5) recog
 * Which sensory feedback is most effective in eliciting empathy, recognition, or comforting behavior?
 * Does this behavior vary between age groups or between boys and girls?
 
-### Materials & methods
-Hoe onderzocht je dit? Wees volledig.  
-Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
-Leg uit welke testen werden uitgevoerd.
-
-To answer these questions, low- and mid-fidelity prototypes were used, each testing one specific part of the design.
-
+## Materials & methods
+To answer the research questions, low- and mid-fidelity prototypes were used, each testing one specific part of the design.
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fcc5137f-1e1f-4563-8a66-2e927d6b8d8c" width=50% height=50%>
+    <img src="https://github.com/user-attachments/assets/fcc5137f-1e1f-4563-8a66-2e927d6b8d8c" height=350>
+    <br>
+    Figure 1. Prototypes used in Definition phase
 </p>
 
+We devided the defintion phase into three waves. We made a prototype fitting for each wave-test (goal).
 
-
+<p align="center">
+    Table 1. Design implications and Guidelines
+</p>
 
 | Prototype                     | Goal                                   | assessment                                              | Method                     |
 |-------------------------------|----------------------------------------|----------------------------------------------------------|--------------------------|
@@ -42,7 +41,16 @@ To answer these questions, low- and mid-fidelity prototypes were used, each test
 | **Color cards**             | Researching emotional color associations | Positive/negative feelings, recognition, putting it on an emotion scale | "Dot" Voting with the colors |
 
 
-#### Test 1. Facial Expressions
+#### Test 1. Colortest
+Goal : Determine which colors Wobble should use for its emotional light signals.
+
+For each color, the children go through the same steps:
+* Naming associations;
+* Indicating the feeling (positive/negative);
+* Placing it on an emoji-emotion scale.
+This clarifies which colors feel calming, exciting, or overwhelming to children.
+
+#### Test 2. Facial Expressions
 Goal : investigating which facial expressions and emotions are perceived as connected by children between the ages of 2 and 5, and which expressions we should use in the design of Wobble.
 
 Children get to look at more than 30 variations of facial expressions.
@@ -50,9 +58,8 @@ Children get to look at more than 30 variations of facial expressions.
 * Ages 2–3: are given predefined categories (happy, angry, scared, sad).
 Afterwards, they use dot voting to choose which variant in each category they like the most or least. This provides insights into the readability of the eyes, the role of eyebrows, the extent to which minimalist faces are sufficiently expressive, and which facial expressions are preferred.
 
-#### Test 2. Interaction Test
+#### Test 3. Interaction Test
 Goal : Determine which sensory features Wobble should use to elicit natural and meaningful interactions.
-
 
 A prototype character is introduced and placed in a brief scenario (sadness, fear, anger, joy). The children’s initial reactions are carefully observed and coded, such as:
 * Comforting behavior (hugging, petting, holding);
@@ -62,32 +69,43 @@ A prototype character is introduced and placed in a brief scenario (sadness, fea
 * Functional use of the object.
 We compare these reactions by age group and gender, and also examine whether children personified the object (giving it a name, talking to it as if it were alive).
 
-#### Test 3. Colortest
-Goal: Determine which colors Wobble should use for its emotional light signals.
+### Analysis Approach
+- Combination of observation and test-data
+- Deviating or unclear results were verified or refuted with additional literature texts
 
-For each color, the children go through the same steps:
-* Naming associations;
-* Indicating the feeling (positive/negative);
-* Placing it on an emoji-emotion scale.
-This clarifies which colors feel calming, exciting, or overwhelming to children.
+> [!Note]
+> The full approach to the tests and interviews can be found in the Design Protocol.
+> [D2. Protocol_Colourtests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
+> [D2. Protocol_Facial_Expressions_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
+> [D2. Protocol_Interactiontests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
 
 
 ### Results
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-
-The group from the second kindergarten class created many more facial expression categories than the groups from the first class and appeared to influence each other quickly. Overall, four of Ekman’s six basic emotions spontaneously emerged during the card-sorting activity with the facial expressions. Many children had difficulty categorizing certain cards, which sometimes resulted in cards being placed in seemingly random categories. Nevertheless, the grouping of similar facial expressions generally reflected which emotions were recognizable to the children. Preferences for favorite and least favorite facial expressions were highly individual, and the votes did not exhibit any clear patterns.
-
-Young children find it easier to show empathy physically than to talk about emotions. This is already seen very early in the youngest ones, as they start hugging the characters to comfort them. During the observation, it was quickly noticed that the children also use functional shapes as functional items. Shapes that have a soft appearance, such as teddy bears, are also quickly seen as toys to throw around, and so on. Abstract shapes with minimal features help the children to personify the object and to see it as a friend.
-
 Most children immediately associated the colors with their own experiences, which made the related emotion very personal. ***"Ik vind zwemmen leuk dus blauw is blij."*** In the analysis, it was quickly noticed that the emotion “happy” appeared very frequently, while negative emotions were only rarely recognized. Due to these unclear results, an additional literature study was conducted. This study revealed that younger children do not yet make strong associations between colors and emotions. Based on this conclusion, it was decided to use color only as a supporting element, rather than as the main indicator of emotion.
 
 
+The group from the second kindergarten class created many more facial expression categories than the groups from the first class and appeared to influence each other quickly. Overall, four of Ekman’s six basic emotions spontaneously emerged during the card-sorting activity with the facial expressions *(angry, happy, sad, scared)*. Many children had difficulty categorizing certain cards, which sometimes resulted in cards being placed in seemingly random categories. Nevertheless, the grouping of similar facial expressions generally reflected which emotions were recognizable to the children. Preferences for favorite and least favorite facial expressions were highly individual, and the votes did not exhibit any clear patterns.
+
+
+Young children find it easier to show empathy physically than to talk about emotions. This is already seen very early in the youngest ones, as they start hugging the characters to comfort them. During the observation, it was quickly noticed that the children also use functional shapes as functional items. Shapes that have a soft appearance, such as teddy bears, are also quickly seen as toys to throw around, and so on. Abstract shapes with minimal features help the children to personify the object and to see it as a friend.
+
+
+
+> [!Note]
+> The full details of the tests and results can be found in the Design Report.
+> [D2. Report_Colourtest_De_Bleser_Axelle_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCiKuJSRuVlRr4PazKVPoMOAYUTUdSXlude2eo4ILDH-JY?e=00H2Qk)
+> [D2. Report_Facial_Expressions_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
+> [D2. Report_Interactiontests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
+
 
 ### Conclusions & implications
-Definieer de belangrijkste designbeslissingen.
-
 Children can quickly name a few basic emotions. As they grow older, they learn to recognize more emotions. Recognizing emotions based on eyes alone is difficult, whereas emotions involving eyebrows are recognized more quickly. Therefore, it is essential that Wobble has both eyes and eyebrows, so that children can accurately identify the emotions, especially when the expressions are combined with a color in a specific context.
 Following guidelines were defined based on the card sorting activity:
+
+<p align="center">
+    Table 2. Design implications and Guidelines
+</p>
+
 | Facial expression                     | Guidelines                                   | 
 |-------------------------------|----------------------------------------|
 | **Fear**       | Large eyes with raised eyebrows |
@@ -98,3 +116,6 @@ Following guidelines were defined based on the card sorting activity:
 When Wobble is happy, we will give him a neutral facial expression that has not appeared in the conclusions for the other emotions listed above.
 When Wobble is angry, we will use low eyebrows slanting inward.
 The children will be able to identify Wobble's emotion based on the context and color.
+
+> [!IMPORTANT]
+> An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
