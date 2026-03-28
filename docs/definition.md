@@ -1,5 +1,11 @@
 # Definition
 
+<p align="center">
+    <img alt="zDefinition" src="https://github.com/user-attachments/assets/c2422979-d82e-4380-b11c-9277980dfd83" height = "200">
+    <br>
+    Figure 1. Definition Overview
+</p>
+
 ## Objectives
 
 The definition phase was carried out to understand how young children interpret and recognize emotions through colors, facial expressions, and interactions, as it is important that Wobble can communicate its emotions clearly and understandably to the children. This was examined by drawing facial expressions on cards and having the children sort them. The association between colors and emotions was also studied through card sorting. Using dot voting, we observed whether there were any universally preferred facial expressions.
@@ -7,9 +13,9 @@ The definition phase was carried out to understand how young children interpret 
 > **Extra :** We clearly saw that there are no universally preferred facial expressions among the children, this is very personal to each child. Therefore, we think it would be nice to include an option in the app that allows children to choose Wobble’s facial expressions themselves, so that every child has a pleasant experience. The colors were mainly linked to personal experiences, and studies show that children do not yet have strong associations between colors and emotions. That is why we find it important not to use color as a dominant factor in emotion recognition. Instead, colors should mainly serve as a trigger to show the children that Wobble is communicating something. The associations between colors and emotions will then gradually become stronger as the child grows older.
 
 <p align="center">
-    <img alt="D2_Storyboard" src="https://github.com/user-attachments/assets/a3c96eb1-e5a3-4508-92a2-cbc231798a66" height = "350">
+    <img alt="D2_Storyboard" src="https://github.com/user-attachments/assets/a3c96eb1-e5a3-4508-92a2-cbc231798a66" height = "250">
     <br>
-    Figure 1. Preliminary storyboard
+    Figure 2. Preliminary storyboard
 </p>
 
 
@@ -32,7 +38,7 @@ To answer the research questions, low- and mid-fidelity prototypes were used, ea
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fcc5137f-1e1f-4563-8a66-2e927d6b8d8c" height=350>
     <br>
-    Figure 2. Prototypes used in Definition phase
+    Figure 3. Prototypes used in Definition phase
 </p>
 
 We devided the defintion phase into three waves. We made a prototype fitting for each wave-test (goal).
@@ -81,7 +87,7 @@ We compare these reactions by age group and gender, and also examine whether chi
     <img alt="D2_FacialExpressions1" src="https://github.com/user-attachments/assets/d2df6fd6-d031-45dc-9939-3b17ec126338" height=350>
     <img alt="D2_Interaction1" src="https://github.com/user-attachments/assets/14bc2a5f-c77b-4ad8-bc38-0819d922352d" height=350>
     <br>
-    Figure 3. Children interacting
+    Figure 4. Children interacting
 </p>
 
 
@@ -102,14 +108,14 @@ Most children immediately associated the colors with their own experiences, whic
 <p align="center">
     <img alt="D2_Colours_Analysis" src="https://github.com/user-attachments/assets/afd9f778-7171-43c6-9c90-01f16d758d39" height=350>
     <br>
-    Figure 4. Results Colourtest
+    Figure 5. Results Colourtest
 </p
 
 The group from the second kindergarten class created many more facial expression categories than the groups from the first class and appeared to influence each other quickly. Overall, four of Ekman’s six basic emotions spontaneously emerged during the card-sorting activity with the facial expressions *(angry, happy, sad, scared)*. Many children had difficulty categorizing certain cards, which sometimes resulted in cards being placed in seemingly random categories. Nevertheless, the grouping of similar facial expressions generally reflected which emotions were recognizable to the children. Preferences for favorite and least favorite facial expressions were highly individual, and the votes did not exhibit any clear patterns.
 <p align="center">
     <img alt="D2_FacialExpressions_Analysis" src="https://github.com/user-attachments/assets/89e7dc8f-ad28-4f25-ab4f-f16f35a64057" height=350>
     <br>
-    Figure 5. Results Facial Expressions
+    Figure 6. Results Facial Expressions
 </p
 
 Young children find it easier to show empathy physically than to talk about emotions. This is already seen very early in the youngest ones, as they start hugging the characters to comfort them. During the observation, it was quickly noticed that the children also use functional shapes as functional items. Shapes that have a soft appearance, such as teddy bears, are also quickly seen as toys to throw around, and so on. Abstract shapes with minimal features help the children to personify the object and to see it as a friend.
