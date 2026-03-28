@@ -1,4 +1,11 @@
 # Discovery
+<p align="center">
+  <img alt="zDiscovery" src="https://github.com/user-attachments/assets/c402f57a-a3a2-4c29-968e-f9197448784a" height="200"/>
+  <br>
+  Figure 1. Survey setup and example questions
+</p>
+
+
 
 ## Objectives
 
