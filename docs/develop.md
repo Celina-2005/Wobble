@@ -18,5 +18,6 @@ De box bevatte initieel:
 **De initiële motor die gebruikt werd was een DC motor, deze was niet zwaar genoeg om de geconnecteerde plaatjes rond te laten draaien. hierna werd een TT motor gebruikt. Deze was ook niet sterk genoeg. Uiteindelijk werd de 12V jgy-370 DC motor gebruikt.* 
 
 Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten platen.
-![plaatjes](../img/plaatjes.png)
+
 Om de beweging te verkrijgen werden niet volledige cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
+![plaatjes](../img/plaatjes.png)
