@@ -42,4 +42,22 @@ Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowe
 
 ### Testverloop
 1. Het kind werd geblinddoekt naar een tafel gebracht waar hij of zij 1 voor 1 de verschillende stoffen mocht aanvoelen. (geblinddoekt zodat het kleur of patroon geen invloed had) Er werd steeds gevraagd of de stof leuker of minder leuk aanvoelde dan de vorige, zo kon de precieze plek van een stof bepaald worden. 
-2. De favoriet werd op het prototype geplaatst.
+<p align="center">
+  <img src="../img/Test_plaatjes.jpeg" width="500">
+  <br>
+  Figure 3. minst aangename (linksboven) naar aangenaamste (rechtsonder)
+</p>
+
+2. De favoriet werd op het prototype geplaatst. De hartslag werd afgenomen en genoteerd. Het kind mocht al eens voelen aan het prototype zodat ze weten dat er iets zal bewegen.
+
+3. Het kind legde een kort loopparkoer af. Dit werd getimed om het competitiever te maken voor het kind.
+
+4. Na het lopen werd de hartslag meteen gemeten en genoteerd. Vanaf nu gebeurt dit om de 2 minuten.
+
+5. Het kind gaat naar het prototype en legt zijn of haar hand op de bovenkant.
+<p align="center">
+  <img src="../img/Test1.jpg" width="250"/>
+  <img src="../img/Test2.jpeg" width="250"/>
+  <br>
+  Figure 4. Testen van het ademhalingsmechanisme
+</p>
