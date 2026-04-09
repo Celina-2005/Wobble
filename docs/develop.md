@@ -61,3 +61,20 @@ Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowe
   <br>
   Figure 4. Testen van het ademhalingsmechanisme
 </p>
+
+Deze volgorde wordt bij ieder kind gedaan. Nadat ieder kind geweest mogen ze in dezelfde volgorde 1 voor 1 terugkomen en start de volgende fase.
+
+6. De hartslag wordt als extra rustreferentie gemeten, daarna wordt de looptest opnieuw getimed uitgevoerd.
+
+7. Het kind zit op een stoel en luistert naar de audio. Opnieuw wordt om de twee minuten de hartslag gemeten en genoteerd.
+
+Er wordt bij iedere fase op het einde gevraagd of ze weten waarom ik ze dit laat doen. Ze weten niet waarom het prototype of de audio dient. Wanneer vermeld wordt dat het de bedoeling is dat ze mee ademen met de beweging of het geluid om rustig te worden proberen enkele kindjes dit te doen zonder ik het ze expliciet vraag.
+
+### Conclusion
+> [!Note]
+> The full details of the test analysis and results can be found in the report.
+> [C.2 Rapport_Calming_Test_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
+
+De test waarbij gebruik gemaakt werd van de ademhalingsbeweging werd het beste ervaren door de kinderen. Ook tijdens de observatie werd opgemerkt dat de kinderen veel beter hun focus konden houden wanneer ze haptisch op iets konden focussen.
+
+Het mee ademhalen met het ritme was algemeen moeilijk, er was nog niet genoeg rekening gehouden met het feit dat kinderen algemeen (en dus ook in rust) sneller ademen dan volwassenen.
