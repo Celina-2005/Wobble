@@ -19,9 +19,15 @@ De box bevatte initieel:
 
 Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten platen.
 
+<p align="center">
+  <img src="../img/Prototype1.jpeg" width="500">
+  <br>
+  Figure 2. Plaatjes adembeweging
+</p>
+
 Om de beweging te verkrijgen werden niet volledige cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
 <p align="center">
-  <img src="../img/plaatjes.png" width="330">
+  <img src="../img/plaatjes.png" width="500">
   <br>
   Figure 2. Plaatjes adembeweging
 </p>
