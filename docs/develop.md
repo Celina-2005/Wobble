@@ -1,9 +1,9 @@
 # Develop
 
-## Expert Interviews (February)
+## Develop 1 – Expert Interviews (February)
 We spraken met verschillende pedagogische experten.
 
-## Sensory Tests and Material Study (March)
+## Develop 2 – Sensory Tests and Material Study (March)
 ### Doel
 Het doel is onderzoeken hoe effectief een ademhalingsbeweging of ademhalingshulp in de vorm van geluid kinderen tussen de 2 en 6 jaar kan helpen om sneller tot rust te komen.
 
@@ -32,6 +32,34 @@ Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten 
   Figure 1. Prototypeimg/Prototpye.jpeg
 </p>
 
+**Anthropometric Basis for Dimensioning**
+The dimensions of the enclosure were derived from anthropometric data obtained from the DINBelg database, which provides measurements for children aged 3 to 6 years (mixed gender) :
+
+> https://www.dinbelg.be/3jaartotaal.htm
+> https://www.dinbelg.be/4jaartotaal.htm
+> https://www.dinbelg.be/5jaartotaal.htm
+> https://www.dinbelg.be/6jaartotaal.htm
+
+**Hand Length (mm)**
+| Age     | P1  | P5  | Mean | P95 | P99 | SD  |
+| ------- | --- | --- | ---- | --- | --- | --- |
+| 3 years | 93  | 97  | 107  | 117 | 121 | 6.8 |
+| 4 years | 99  | 104 | 115  | 126 | 131 | 7.3 |
+| 5 years | 104 | 109 | 122  | 135 | 140 | 7.8 |
+| 6 years | 110 | 115 | 128  | 141 | 146 | 7.9 |
+
+**Hand Width (mm)**
+| Age     | P1 | P5 | Mean | P95 | P99 | SD  |
+| ------- | -- | -- | ---- | --- | --- | --- |
+| 3 years | 41 | 43 | 47   | 52  | 54  | 3.5 |
+| 4 years | 44 | 46 | 52   | 58  | 61  | 3.9 |
+| 5 years | 47 | 50 | 57   | 64  | 67  | 4.3 |
+| 6 years | 51 | 54 | 60   | 66  | 69  | 3.8 |
+
+The prototype was primarily intended for third-year kindergarten children (ages 5–6). Therefore, the design was based on the mean hand dimensions of this age group.
+Using these values, the enclosure was designed as a square with an internal side length of 125 mm (12.5 cm). This dimension provides a balance between ergonomic handling for the target age group and sufficient internal volume to accommodate the required electronic components.
+
+**Motion Mechanism**
 Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
 <p align="center">
   <img src="../img/plaatjes.png" width="500">
@@ -78,3 +106,6 @@ Er wordt bij iedere fase op het einde gevraagd of ze weten waarom ik ze dit laat
 De test waarbij gebruik gemaakt werd van de ademhalingsbeweging werd het beste ervaren door de kinderen. Ook tijdens de observatie werd opgemerkt dat de kinderen veel beter hun focus konden houden wanneer ze haptisch op iets konden focussen.
 
 Het mee ademhalen met het ritme was algemeen moeilijk, er was nog niet genoeg rekening gehouden met het feit dat kinderen algemeen (en dus ook in rust) sneller ademen dan volwassenen.
+
+> [!IMPORTANT]
+> An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
