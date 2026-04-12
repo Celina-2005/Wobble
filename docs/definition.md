@@ -1,7 +1,7 @@
 # Definition
 
 <p align="center">
-    <img alt="zDefinition" src="https://github.com/user-attachments/assets/c2422979-d82e-4380-b11c-9277980dfd83" height = "200">
+    <img alt="zDefinition" src="https://github.com/user-attachments/assets/02177d24-81a7-476c-8fc5-7e3325ade01a" height = "200">
     <br>
     Figure 1. Definition Overview
 </p>
@@ -84,7 +84,7 @@ We compare these reactions by age group and gender, and also examine whether chi
 
 <p align="center">
     <img alt="D2_Colours2" src="https://github.com/user-attachments/assets/ced44656-0326-41a1-9c08-96588b9fe161" height=350>
-    <img alt="D2_FacialExpressions1" src="https://github.com/user-attachments/assets/d2df6fd6-d031-45dc-9939-3b17ec126338" height=350>
+    <img alt="D2_FacialExpressions1" src="https://github.com/user-attachments/assets/ff11c140-8ee9-49b7-9b20-b3ee76ffc573" height=350>
     <img alt="D2_Interaction1" src="https://github.com/user-attachments/assets/14bc2a5f-c77b-4ad8-bc38-0819d922352d" height=350>
     <br>
     Figure 4. Children interacting
