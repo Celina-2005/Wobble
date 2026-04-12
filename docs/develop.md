@@ -33,11 +33,15 @@ Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten 
 </p>
 
 **Anthropometric Basis for Dimensioning**
+
 The dimensions of the enclosure were derived from anthropometric data obtained from the DINBelg database, which provides measurements for children aged 3 to 6 years (mixed gender) :
 
 > https://www.dinbelg.be/3jaartotaal.htm
+> 
 > https://www.dinbelg.be/4jaartotaal.htm
+> 
 > https://www.dinbelg.be/5jaartotaal.htm
+> 
 > https://www.dinbelg.be/6jaartotaal.htm
 
 **Hand Length (mm)**
@@ -60,6 +64,7 @@ The prototype was primarily intended for third-year kindergarten children (ages 
 Using these values, the enclosure was designed as a square with an internal side length of 125 mm (12.5 cm). This dimension provides a balance between ergonomic handling for the target age group and sufficient internal volume to accommodate the required electronic components.
 
 **Motion Mechanism**
+
 Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
 <p align="center">
   <img src="../img/plaatjes.png" width="500">
