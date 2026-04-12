@@ -1,5 +1,14 @@
 # Develop
 
+<p align="center">
+    <img alt="zDevelop" src="https://github.com/user-attachments/assets/c3a790e2-7f02-466c-8356-36647c69647a" height = "200">
+    <br>
+    Figure 1. Develop Overview (placeholder Develop 1 & 2)
+</p>
+
+
+
+
 ## Develop 1 – Expert Interviews (February)
 We spraken met verschillende pedagogische experten.
 
