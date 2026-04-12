@@ -1,6 +1,6 @@
 # Discovery
 <p align="center">
-  <img alt="zDiscovery" src="https://github.com/user-attachments/assets/c402f57a-a3a2-4c29-968e-f9197448784a" height="200"/>
+  <img alt="zDiscovery" src="https://github.com/user-attachments/assets/3823f9c7-8a74-4858-be63-67ced605a18b" />
   <br>
   Figure 1. Discovery Overview
 </p>
