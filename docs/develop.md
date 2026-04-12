@@ -14,10 +14,12 @@
 At the start of the second semester, a broad exploration of the Wobble concept was conducted to assess its full scope and complexity. This began with the creation of a **comprehensive mind map**, in which all possible components, interaction types, and functionalities of Wobble were mapped out. The mind map revealed that the concept, in its current form, was overly extensive and **lacked prioritization**. Multiple interaction modalities (e.g. light, sound, movement, touch) and behavioural features were considered simultaneously, making it difficult to determine which elements were essential for achieving the core goal.
 
 <p align="center">
-  <img scr="D3_MindMap.png" height="350"/>
+  <img src="https://github.com/user-attachments/assets/e9a0ca9e-a0dd-41bb-a929-d072caf86143" height="350"/>
   <br>
   Figure 2. Initial mind map of Wobble functionalities and interaction modalities
 </p>
+
+
 
 ### Literature Study and Technology Analysis
 To reduce this complexity, a **literature study** was conducted, focusing on the role of different technologies and interaction types in child development and emotional regulation. Each source was first individually assessed in terms of relevance and reliability. Subsequently, the findings were systematically regrouped and analyzed across five categories :
@@ -69,21 +71,23 @@ These insights aligned strongly with the literature findings, particularly regar
 ### Synthesis and Prioritization
 The findings from the literature study and expert interviews were combined into a structured prioritization using a **MoSCoW matrix** (see Figure 3). This matrix was used to define which features should be central in the next phase of development and which should be deprioritized.
 
-
 <p align="center">
-  <img [] height="350"/>
+  <img alt="D3_MoSCoW" src="https://github.com/user-attachments/assets/28c1edfc-d3c1-444f-83e2-2fbdf8ef266a" height="350"/>
   <br>
   Figure 3. MoSCoW prioritization of Wobble functionalities </p> 
 </p>
 
 ### Outcome
 This phase resulted in a **clear narrowing of the concept scope**. Rather than developing a multi-functional or highly interactive system, Wobble is further defined as a calm, supportive, and sensory-driven object that operates through subtle cues.
-The core interaction principle emerging from Develop 1 can be summarized as:
+The core interaction principle emerging from Develop 1 can be summarized as :
 
 > **Guiding the child toward calmness through combined tactile, rhythmic, and auditory feedback, without requiring explicit attention or instruction.**
 
 This prioritization formed the basis for Develop 2, in which these key interaction principles were translated into tangible prototypes and experimentally tested.
 
+> [!Note]
+> The full details of the tests and results can be found in the Design Report.
+> [D3. Develop_1_Report_De_Bleser_Axelle_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/C.%20Interview_Rapport_De_Bleser_Axelle_Rootsaert_Selena.docx?d=wb0b0c9f46ac94540b67276597a27215c&csf=1&web=1&e=4CA7Jq)
 
 
 
@@ -94,8 +98,14 @@ The aim is to investigate how effectively a breathing movement or breathing aid 
 A mechanical breathing rhythm is established, and constant sounds are used to guide the breathing.
  
 Additionally, various substances are haptically tested to determine how pleasant preschoolers find these substances. This allows us to ascertain whether there is a general preference.
- 
-### prototype assembly
+
+
+> [!Note]
+> The full approach to the tests and interviews can be found in the Design Protocol.
+> [D3. Develop_2_Protocol_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.2%20Develop%202/A.1%20Protocol_UserTest_Rootsaert_Selena.docx?d=we0e8b6712f9a49db82447199b3e43ae4&csf=1&web=1&e=Ug6uzM)
+
+
+### Prototype assembly
 A modular prototype was made so that the different fabrics could be placed on the same prototype.
 A box was laser-cut; the top plate was laser-cut several times (1 plate per fabric).
  
@@ -195,7 +205,7 @@ Breathing along with the rhythm was generally difficult; insufficient account ha
 
 > [!Note]
 > The full details of the test analysis and results can be found in the report.
-> [C.2 Rapport_Calming_Test_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
+> [D3. Develop_2_Report_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
 
 
 > [!IMPORTANT]
