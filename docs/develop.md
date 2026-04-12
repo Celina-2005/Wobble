@@ -9,8 +9,83 @@
 
 
 
-## Develop 1 – Expert Interviews (February)
-We spraken met verschillende pedagogische experten.
+## Develop 1 – Expert Interviews and Concept Focusing (February)
+### Goal
+At the start of the second semester, a broad exploration of the Wobble concept was conducted to assess its full scope and complexity. This began with the creation of a **comprehensive mind map**, in which all possible components, interaction types, and functionalities of Wobble were mapped out. The mind map revealed that the concept, in its current form, was overly extensive and **lacked prioritization**. Multiple interaction modalities (e.g. light, sound, movement, touch) and behavioural features were considered simultaneously, making it difficult to determine which elements were essential for achieving the core goal.
+
+<p align="center">
+  <img scr="D3_MindMap.png" height="350"/>
+  <br>
+  Figure 2. Initial mind map of Wobble functionalities and interaction modalities
+</p>
+
+### Literature Study and Technology Analysis
+To reduce this complexity, a **literature study** was conducted, focusing on the role of different technologies and interaction types in child development and emotional regulation. Each source was first individually assessed in terms of relevance and reliability. Subsequently, the findings were systematically regrouped and analyzed across five categories :
+-	Tactile 
+-	Auditory 
+-	Visual 
+-	Movement-based 
+-	Cognitive 
+
+Within each category, recurring mechanisms and interaction types were identified and compared. This resulted in an overview of which sensory modalities are most frequently associated with calming, engagement, and emotional recognition in young children.
+
+<p align="center">
+  Tabel 2. Overview of technology types and interaction mechanisms derived from literature (middle row) and expert insights (bottom row)
+</p>
+
+| Tactile | Auditory | Visual | Movement | Cognitive |
+|--------|----------|---------|----------|-----------|
+| - Physical comfort (2x)<br>- Hugging contact<br>- Breathing co-regulation<br>- Gentle stroking (hugging, caressing)<br>- Gentle pressure<br>- Self-soothing<br>- Sensory space | - Music (general)<br>- Favorite music<br>- Calm music<br>- Sleep music<br>- Rhythmic music (2x)<br>- Rhythmic sounds<br>- Sound as trigger<br>- Breathing rhythm audio<br>- Soft auditory feedback | - Cartoons<br>- VR<br>- Visual distraction<br>- Light projections<br>- Expressive faces<br>- Breathing rhythm light visualization<br>- Soft light transitions | - Rhythmic breath expansion (2x)<br>- Physical venting<br>- Movement combined with sensory input | - Emotional education<br>- Increase caregiver responsiveness<br>- Group reflection<br>- Guided breathing<br>- Muscle relaxation<br>- Breath focus (indirect via movement)<br>- Guided visualization<br>- Music as an imaginative framework<br>- Distraction<br>- Pretend play (2x)<br>- Self-selected music<br>- Self-awareness<br>- Seeking verbal help<br>- Narrative expression |
+| - Soft presence<br>- Hugging<br>- Weighted blankets<br>- Caressing<br>- Snoezelen rooms | - Sound as trigger<br>- Music<br>- Breathing rhythm audio | - Color as a calming indicator<br>- Expressive faces | - Breath expansion | - Structure<br>- Predictability |
+
+From this analysis, a clear pattern emerged : effective emotional regulation is **rarely achieved through a single modality**, but rather through a **combination of complementary sensory inputs**. The literature consistently pointed toward a configuration in which multiple regulatory mechanisms reinforce each other.
+The most promising combination identified was :
+-	Tactile feedback (e.g. soft touch, hugging, pressure),
+-	Rhythmic breathing guidance (e.g. expansion/contraction, movement),
+-	Soft auditory support (e.g. breathing sounds, calm audio cues).
+
+These correspond to three underlying regulation mechanisms :
+-	Tactile safety : creating a sense of comfort and security through physical contact,
+-	Physiological synchronization : guiding the child’s breathing rhythm to induce calmness,
+-	Auditory calming : reinforcing relaxation through predictable and soft sound cues.
+
+This triad formed the initial foundation for further concept development.
+
+### Expert Interviews
+To validate and contextualize these findings, *expert interviews* were conducted on March 2 and March 5 with :
+-	Liezl Mullebrouck 
+-	Hanne Corne 
+
+The interviews focused on emotional development in early childhood, appropriate forms of sensory stimulation, and how children interact with non-living objects that display emotional cues.
+Both experts emphasized the importance of :
+-	Subtle guidance rather than explicit instruction,
+-	Physical interaction (touch, proximity) as a primary form of comfort,
+-	Predictability and structure in calming interventions,
+-	Avoiding overstimulation through excessive visual or auditory input.
+
+These insights aligned strongly with the literature findings, particularly regarding the importance of tactile and rhythmic elements. Additionally, the experts highlighted that children in this age group often respond more intuitively to **physical and sensory cues** than to abstract or cognitive interventions.
+
+
+### Synthesis and Prioritization
+The findings from the literature study and expert interviews were combined into a structured prioritization using a **MoSCoW matrix** (see Figure 3). This matrix was used to define which features should be central in the next phase of development and which should be deprioritized.
+
+
+<p align="center">
+  <img [] height="350"/>
+  <br>
+  Figure 3. MoSCoW prioritization of Wobble functionalities </p> 
+</p>
+
+### Outcome
+This phase resulted in a **clear narrowing of the concept scope**. Rather than developing a multi-functional or highly interactive system, Wobble is further defined as a calm, supportive, and sensory-driven object that operates through subtle cues.
+The core interaction principle emerging from Develop 1 can be summarized as:
+
+> **Guiding the child toward calmness through combined tactile, rhythmic, and auditory feedback, without requiring explicit attention or instruction.**
+
+This prioritization formed the basis for Develop 2, in which these key interaction principles were translated into tangible prototypes and experimentally tested.
+
+
+
 
 ## Develop 2 – Sensory Tests and Material Study (March)
 ### Goal
@@ -35,10 +110,10 @@ The box initially contained:
 Everything except the motor was attached to the wooden plates with small bolts and nuts.
 
 <p align="center">
-  <img src="../img/Prototype1.jpeg" width="250"/>
-  <img src="../img/Prototpye.jpeg" width="250"/>
+  <img src="../img/Prototype1.jpeg" height="300"/>
+  <img src="../img/Prototpye.jpeg" height="300"/>
   <br>
-  Figure 1. Prototypeimg/Prototpye.jpeg
+  Figure 4. Prototype
 </p>
 
 **Anthropometric Basis for Dimensioning**
@@ -76,18 +151,18 @@ Using these values, the enclosure was designed as a square with an internal side
 
 To achieve the movement, semicircles were laser-cut. This shape could either protrude above the box and push the fabric upwards, or remain below the fabric so that the test subject's hand moves downwards.
 <p align="center">
-  <img src="../img/plaatjes.png" width="500">
+  <img src="../img/plaatjes.png" height="300">
   <br>
-  Figure 2. Drawing - Plates for breathing movement
+  Figure 5. Drawing - Plates for breathing movement
 </p>
 
 
 ### Test procedure
 1. The child was blindfolded and led to a table where he or she was allowed to feel the different fabrics one by one. (blindfolded so that the color or pattern had no influence) After each use, they were asked if the fabric felt nicer or less nice than the previous one, so that the precise placement of a fabric could be determined. 
 <p align="center">
-  <img src="../img/Test_plaatjes.jpeg" width="500">
+  <img src="../img/Test_plaatjes.jpeg" height="300">
   <br>
-  Figure 3. Fabrics - Least pleasant (upper left) to most pleasant (bottom right)
+  Figure 6. Fabrics - Least pleasant (upper left) to most pleasant (bottom right)
 </p>
 
 2. The favorite was placed on the prototype. The heart rate was measured and recorded. The child was allowed to touch the prototype so that they know something will move.
@@ -99,10 +174,10 @@ To achieve the movement, semicircles were laser-cut. This shape could either pro
 5. The child goes to the prototype and places his or her hand on the top.
 
 <p align="center">
-  <img src="../img/Test1.jpg" width="250"/>
-  <img src="../img/Test2.jpeg" width="250"/>
+  <img src="../img/Test1.jpg" height="300"/>
+  <img src="../img/Test2.jpeg" height="300""/>
   <br>
-  Figure 4. Testing the breathing mechanism
+  Figure 7. Testing the breathing mechanism
 </p>
 
 This sequence is followed for every child. After every child has had their turn, they may return one by one in the same order, and the next phase begins.
