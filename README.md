@@ -68,7 +68,7 @@ So far, Wobble is an idea that teachers and parents in our environment find very
 
 ## Attachments
 ### Discovery
-* Test Analysis and Results, Literatuur **(N=8)** en Enquêtes **(N=21)**
+* Test Analysis and Results, Literature **(N=8)** and Survey **(N=21)**
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bced13246-a5b9-4a90-ba69-ba7b9f5bedb6%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766311891243&web=1)
   * [Report](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B07066592-c11e-4710-9cd2-73e4e3812c40%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1766312112114&web=1)
 * Attachments *(Dutch Analysis)* 
@@ -89,16 +89,42 @@ So far, Wobble is an idea that teachers and parents in our environment find very
 * User testing wave 1: Colourtest (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
   * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCiKuJSRuVlRr4PazKVPoMOAYUTUdSXlude2eo4ILDH-JY?e=00H2Qk)
-  * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQA-Iia7Az5JRIR0cPlhmmZoAfsf1NpcVpnFugj7QELvu4k?e=HxObNS)
-  * [Attachment1](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQAw31o8ZLQYQ48Tkzs_nRNPAcNEGuAB0mFxEzQBON0vuJs?e=C7HCYa)
-  * [Attachment2](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQDWztdkupDWS7ilgrUHk3JZARC_KnWTdjZEa3PhTTrhjzU?e=QUIlx0)
+    * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQA-Iia7Az5JRIR0cPlhmmZoAfsf1NpcVpnFugj7QELvu4k?e=HxObNS)
+    * [Attachment1](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQAw31o8ZLQYQ48Tkzs_nRNPAcNEGuAB0mFxEzQBON0vuJs?e=C7HCYa)
+    * [Attachment2](https://ugentbe.sharepoint.com/:b:/t/Group.course1292872/IQDWztdkupDWS7ilgrUHk3JZARC_KnWTdjZEa3PhTTrhjzU?e=QUIlx0)
 * User testing wave 2: Facial expressions (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
   * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
-  * [Analyse](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQCPSVM4RStUQad8WMpz9C6SAfVmIxQdfHyUsfueQz8stwg?e=1j3ITG)
+    * [Analysis](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQCPSVM4RStUQad8WMpz9C6SAfVmIxQdfHyUsfueQz8stwg?e=1j3ITG)
 * User testing wave 3: Interaction Test (N=29)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
   * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
+
+### Develop
+#### Develop 1
+* Test Analysis and Results, Interviews **(N=2)**
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/C.%20Interview_Protocol_De_Bleser_Axelle_Rootsaert_Selena.docx?d=w47ba46f017404340be6610031bfb1eed&csf=1&web=1&e=wnRfKZ)
+  * [Report](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/C.%20Interview_Rapport_De_Bleser_Axelle_Rootsaert_Selena.docx?d=wb0b0c9f46ac94540b67276597a27215c&csf=1&web=1&e=m44IeN)
+* Test Analysis and Results, Literature **(N=13)**
+  * [Report](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.%20Literatuurstudie_De_Bleser_Axelle_Rootsaert_Selena.docx?d=w18a2a41b45c84e6d954b555f8dba34a6&csf=1&web=1&e=cSzSUa)
+* Attachments *(Dutch Analysis)*
+  * [A.1 Preoperative anxiety management in pediatric patients](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.1%20Preoperative%20anxiety%20management%20in%20pediatric%20patients%20-%20a%20systemic%20review%20and%20meta-analysis%20of%20randomized%20controlled%20trials%20on%20the%20efficacy%20of%20distraction%20techniques.pdf?csf=1&web=1&e=GMqya8)
+  * [A.2 Emotional self-regulation through music in 3-8-year-old children](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.2%20Emotional%20self-regulation%20through%20music%20in%203-8-year-old%20children.pdf?csf=1&web=1&e=AFuDgZ)
+  * [A.3 Therapeutic Group Therapy for Temper Tantrum in Toddler](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.3%20Therapeutic%20Group%20Therapy%20for%20Temper%20Tantrum%20in%20Toddler.pdf?csf=1&web=1&e=3i2hKv)
+  * [A.4 Examining Preschoolers’ Emotion Regulation Strategies](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.4%20Examining%20Preschoolers%E2%80%99%20Emotion%20Regulation%20Strategies%20-%20Psychometric%20Properties%20of%20the%20Translated%20Dutch%20Early%20Emotion%20Regulation%20Behavior%20Questionnaire%20(EERBQ-Dutch).pdf?csf=1&web=1&e=2RaLf4)
+  * [A.5 A calming hug](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.5%20A%20calming%20hug%20-%20Design%20and%20validation%20of%20a%20tactile%20aid%20to%20ease%20anxiety.pdf?csf=1&web=1&e=PVbAFa)
+  * [A.6 The terrible twos](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.6%20Infancy%20-%202021%20-%20Deichmann%20-%20The%20terrible%20twos%20%20How%20children%20cope%20with%20frustration%20and%20tantrums%20and%20the%20effect%20of%20maternal.pdf?csf=1&web=1&e=tF27ml)
+  * [A.7 The role of affective touch](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.7%20The%20role%20of%20affective%20touch.pdf?csf=1&web=1&e=uBHbAm)
+  * [A.8 Softy](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.8%20Softy.pdf?csf=1&web=1&e=0rGWZ2)
+  * [A.9 The use of Multi-Sensory Environments](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.8%20Softy.pdf?csf=1&web=1&e=0rGWZ2)
+  * [A.10 Flat vs. Expressive Storytelling](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.10%20Flat%20vs.%20Expressive%20Storytelling.pdf?csf=1&web=1&e=ZdC8uR)
+  * [A.11 Effectiveness of Sound‐Based Interventions for Improving Functional](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.11%20Occupational%20Therapy%20International%20-%202025%20-%20Vincent%20-%20Effectiveness%20of%20Sound%E2%80%90Based%20Interventions%20for%20Improving%20Functional.pdf?csf=1&web=1&e=ATvSCr)
+  * [A.12 Breezy the Calm Monster](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.12%20Breezy%20the%20Calm%20Monster.pdf?csf=1&web=1&e=1fTUeF)
+  * [A.13 Tranquillity CuBOT](https://ugentbe.sharepoint.com/:b:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/A.13%20Tranquillity%20CuBOT.pdf?csf=1&web=1&e=ho4pFp)
+#### Develop 2
+* [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.2%20Develop%202/A.1%20Protocol_UserTest_Rootsaert_Selena.docx?d=we0e8b6712f9a49db82447199b3e43ae4&csf=1&web=1&e=19OKfX)
+* [Report](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.2%20Develop%202/C.2%20Rapport_Calming_Test_De_Bleser_Axelle.docx?d=w5b6a43d64d8b4bb0bb88332b30eea574&csf=1&web=1&e=7g91Eh)
+  * [Analysis](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.2%20Develop%202/C.1%20Data_Calming_Test.xlsx?d=w706c09de432c4d95b8752de7a952309c&csf=1&web=1&e=v34cZC)
 
 ## License  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
@@ -108,5 +134,4 @@ This repository contains both software and design materials created as part of a
   
 You cannot reuse and build upon this work, both commercially and non-commercially.
 
-## Bronnen
 
