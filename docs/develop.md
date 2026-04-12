@@ -25,11 +25,11 @@ De box bevatte initieel:
 **De initiële motor die gebruikt werd was een DC motor, deze was niet zwaar genoeg om de geconnecteerde plaatjes rond te laten draaien. hierna werd een TT motor gebruikt. Deze was ook niet sterk genoeg. Uiteindelijk werd de 12V jgy-370 DC motor gebruikt.* 
 
 Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten platen.
-
 <p align="center">
-  <img src="../img/Prototype1.jpeg" width="500">
+  <img src="../img/Prototype1.jpeg" width="250"/>
+  <img src="../img/Prototpye.jpeg" width="500"/>
   <br>
-  Figure 2. Plaatjes adembeweging
+  Figure 1. Prototypeimg/Prototpye.jpeg
 </p>
 
 Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
