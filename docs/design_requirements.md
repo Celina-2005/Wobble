@@ -30,5 +30,5 @@ In this table, **Design Requirements (DRs)** define the essential conditions the
 |    | **Technology** |  |  |  |
 | 1  | The Wobble shall include haptic sensors to detect touch-based interactions such as petting, hugging, and sustained pressure. | Definition | Observation | Dec 2025 |
 | 2  | The Wobble may include audio sensors primarily as an initial environmental or interaction trigger rather than for verbal input. | Definition | Observation | Dec 2025 |
-
+| 3  | Wobble his primary calming focus is a haptic movement. | Definition | Prototype test | March 2026 |
 
