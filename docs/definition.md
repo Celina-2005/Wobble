@@ -98,8 +98,11 @@ We compare these reactions by age group and gender, and also examine whether chi
 
 > [!Note]
 > The full approach to the tests and interviews can be found in the Design Protocol.
+> 
 > [D2. Protocol_Colourtests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAWP25IfrMtTr9mCONQEjFZAd4VYCpdPxWcOfaT1rh0pcI?e=LgLGrd)
+> 
 > [D2. Protocol_Facial_Expressions_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAEfUpEmJ3aSolY1B9GqcFkAYhxIssiV3xpOq-Qz-RI2l0?e=Dg7EdP)
+> 
 > [D2. Protocol_Interactiontests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC-eSS1aF3UT4GXvDziX7zrAZNLaxY107Z_k1OXsfvJH_0?e=1xxsew)
 
 
@@ -121,11 +124,13 @@ The group from the second kindergarten class created many more facial expression
 Young children find it easier to show empathy physically than to talk about emotions. This is already seen very early in the youngest ones, as they start hugging the characters to comfort them. During the observation, it was quickly noticed that the children also use functional shapes as functional items. Shapes that have a soft appearance, such as teddy bears, are also quickly seen as toys to throw around, and so on. Abstract shapes with minimal features help the children to personify the object and to see it as a friend.
 
 
-
 > [!Note]
 > The full details of the tests and results can be found in the Design Report.
+> 
 > [D2. Report_Colourtest_De_Bleser_Axelle_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCiKuJSRuVlRr4PazKVPoMOAYUTUdSXlude2eo4ILDH-JY?e=00H2Qk)
+> 
 > [D2. Report_Facial_Expressions_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB7OxXqR-WKT4a1nZOf1vdZAXefGZyn4fxP2Qg6SC7Ef6U?e=4qWh2F)
+> 
 > [D2. Report_Interactiontests_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDvmaOXufDRTa1D9NTtmylrAUzD0aS8MnVmnhO62K5nugg?e=7ZSCxi)
 
 
