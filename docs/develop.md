@@ -27,7 +27,7 @@ De box bevatte initieel:
 Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten platen.
 <p align="center">
   <img src="../img/Prototype1.jpeg" width="250"/>
-  <img src="../img/Prototpye.jpeg" width="500"/>
+  <img src="../img/Prototpye.jpeg" width="250"/>
   <br>
   Figure 1. Prototypeimg/Prototpye.jpeg
 </p>
