@@ -13,27 +13,27 @@
 We spraken met verschillende pedagogische experten.
 
 ## Develop 2 – Sensory Tests and Material Study (March)
-### Doel
-Het doel is onderzoeken hoe effectief een ademhalingsbeweging of ademhalingshulp in de vorm van geluid kinderen tussen de 2 en 6 jaar kan helpen om sneller tot rust te komen.
+### Goal
+The aim is to investigate how effectively a breathing movement or breathing aid in the form of sound can help children aged 2 to 6 to calm down more quickly.
+ 
+A mechanical breathing rhythm is established, and constant sounds are used to guide the breathing.
+ 
+Additionally, various substances are haptically tested to determine how pleasant preschoolers find these substances. This allows us to ascertain whether there is a general preference.
+ 
+### prototype assembly
+A modular prototype was made so that the different fabrics could be placed on the same prototype.
+A box was laser-cut; the top plate was laser-cut several times (1 plate per fabric).
+ 
+The box initially contained:
+- Arduino Uno
+- H-bridge L298N
+- 12V battery holder
+- Motor*
+ 
+**The initial motor used was a DC motor; it was not powerful enough to rotate the connected plates. Next, a TT motor was used. This was also not strong enough. Finally, the 12V JGY-370 DC motor was used.*
+ 
+Everything except the motor was attached to the wooden plates with small bolts and nuts.
 
-Er wordt een mechanisch ademhalingsritme gerealiseerd en gebruik gemaakt van constante geluiden om de ademhaling te begeleiden.
-
-Daarnaast worden ook verschillende stoffen haptisch getest om af te toetsen hoe aangenaam kleuters deze stoffen vinden. Zo kunnen we nagaan of er een algemene voorkeur is.
-
-
-### Opbouw prototype
-Er werd een modulair prototype gemaakt zodat de verschillende stoffen op eenzelfde prototype geplaatst konden worden.
-Er werd een box gelasercut, de bovenste plaat werd verschillende keren gelasercut (1 plaatje per stof).
-
-De box bevatte initieel:
- - Arduino Uno
- - H-bridge L298N
- - 12V battery holder
- - Motor*
-
-**De initiële motor die gebruikt werd was een DC motor, deze was niet zwaar genoeg om de geconnecteerde plaatjes rond te laten draaien. hierna werd een TT motor gebruikt. Deze was ook niet sterk genoeg. Uiteindelijk werd de 12V jgy-370 DC motor gebruikt.* 
-
-Alles behalve de motor werd met kleine bouten en moeren bevestigd aan de houten platen.
 <p align="center">
   <img src="../img/Prototype1.jpeg" width="250"/>
   <img src="../img/Prototpye.jpeg" width="250"/>
@@ -74,52 +74,54 @@ Using these values, the enclosure was designed as a square with an internal side
 
 **Motion Mechanism**
 
-Om de beweging te verkrijgen werden halve cirkels gelasercut. Deze vorm kon zowel boven de doos uitsteken en de stof naar boven duwen, als onder de stof blijven zodat de hand van de testpersoon omlaag gaat.
+To achieve the movement, semicircles were laser-cut. This shape could either protrude above the box and push the fabric upwards, or remain below the fabric so that the test subject's hand moves downwards.
 <p align="center">
   <img src="../img/plaatjes.png" width="500">
   <br>
-  Figure 2. Plaatjes adembeweging
+  Figure 2. Drawing - Plates for breathing movement
 </p>
 
 
-### Testverloop
-1. Het kind werd geblinddoekt naar een tafel gebracht waar hij of zij 1 voor 1 de verschillende stoffen mocht aanvoelen. (geblinddoekt zodat het kleur of patroon geen invloed had) Er werd steeds gevraagd of de stof leuker of minder leuk aanvoelde dan de vorige, zo kon de precieze plek van een stof bepaald worden. 
+### Test procedure
+1. The child was blindfolded and led to a table where he or she was allowed to feel the different fabrics one by one. (blindfolded so that the color or pattern had no influence) After each use, they were asked if the fabric felt nicer or less nice than the previous one, so that the precise placement of a fabric could be determined. 
 <p align="center">
   <img src="../img/Test_plaatjes.jpeg" width="500">
   <br>
-  Figure 3. minst aangename (linksboven) naar aangenaamste (rechtsonder)
+  Figure 3. Fabrics - Least pleasant (upper left) to most pleasant (bottom right)
 </p>
 
-2. De favoriet werd op het prototype geplaatst. De hartslag werd afgenomen en genoteerd. Het kind mocht al eens voelen aan het prototype zodat ze weten dat er iets zal bewegen.
+2. The favorite was placed on the prototype. The heart rate was measured and recorded. The child was allowed to touch the prototype so that they know something will move.
+ 
+3. The child completed a short running course. This was timed to make it more competitive for the child.
+ 
+4. After running, the heart rate was immediately measured and recorded. From now on, this will be done every 2 minutes.
+ 
+5. The child goes to the prototype and places his or her hand on the top.
 
-3. Het kind legde een kort loopparkoer af. Dit werd getimed om het competitiever te maken voor het kind.
-
-4. Na het lopen werd de hartslag meteen gemeten en genoteerd. Vanaf nu gebeurt dit om de 2 minuten.
-
-5. Het kind gaat naar het prototype en legt zijn of haar hand op de bovenkant.
 <p align="center">
   <img src="../img/Test1.jpg" width="250"/>
   <img src="../img/Test2.jpeg" width="250"/>
   <br>
-  Figure 4. Testen van het ademhalingsmechanisme
+  Figure 4. Testing the breathing mechanism
 </p>
 
-Deze volgorde wordt bij ieder kind gedaan. Nadat ieder kind geweest mogen ze in dezelfde volgorde 1 voor 1 terugkomen en start de volgende fase.
-
-6. De hartslag wordt als extra rustreferentie gemeten, daarna wordt de looptest opnieuw getimed uitgevoerd.
-
-7. Het kind zit op een stoel en luistert naar de audio. Opnieuw wordt om de twee minuten de hartslag gemeten en genoteerd.
-
-Er wordt bij iedere fase op het einde gevraagd of ze weten waarom ik ze dit laat doen. Ze weten niet waarom het prototype of de audio dient. Wanneer vermeld wordt dat het de bedoeling is dat ze mee ademen met de beweging of het geluid om rustig te worden proberen enkele kindjes dit te doen zonder ik het ze expliciet vraag.
+This sequence is followed for every child. After every child has had their turn, they may return one by one in the same order, and the next phase begins.
+ 
+6. The heart rate is measured as an additional resting reference; subsequently, the walking test is timed and performed again.
+ 
+7. The child sits on a chair and listens to the audio. Again, the heart rate is measured and recorded every two minutes.
+ 
+At the end of each phase, they are asked if they know why I am having them do this. They do not know the purpose of the prototype or the audio. When it is mentioned that the intention is for them to breathe along with the movement or sound to calm down, a few children try to do this without me explicitly asking them.
 
 ### Conclusion
+The test utilizing breathing movements was perceived best by the children. During the observation, it was also noted that the children were much better able to maintain their focus when they could focus haptically on something.
+ 
+Breathing along with the rhythm was generally difficult; insufficient account had been taken of the fact that children generally breathe faster than adults (and therefore also at rest).
+
 > [!Note]
 > The full details of the test analysis and results can be found in the report.
 > [C.2 Rapport_Calming_Test_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
 
-De test waarbij gebruik gemaakt werd van de ademhalingsbeweging werd het beste ervaren door de kinderen. Ook tijdens de observatie werd opgemerkt dat de kinderen veel beter hun focus konden houden wanneer ze haptisch op iets konden focussen.
-
-Het mee ademhalen met het ritme was algemeen moeilijk, er was nog niet genoeg rekening gehouden met het feit dat kinderen algemeen (en dus ook in rust) sneller ademen dan volwassenen.
 
 > [!IMPORTANT]
 > An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
