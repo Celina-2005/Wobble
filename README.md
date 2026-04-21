@@ -39,7 +39,7 @@ When children have tantrums, it often causes a lot of stress for their parents. 
   Figure 2. Storyboard (placeholder - start 2nd semester)
 </p>
 
-We want to create a product that fosters a calm home environment. To achieve this, Wobble should guide children in a low-stimulus way, relieving parents of that burden. It must be hands-free and able to recognize cues it should respond to, such as when a child calls out. It’s important that Wobble is easy to clean and safe for children.
+We want to create a product that fosters a calm home environment. To achieve this, Wobble should guide children in a low-stimulus way, relieving parents of that burden. It must be hands-free and able to recognize cues it should respond to, such as when a child calls out. It’s important that Wobble is easy to clean and safe for children..
 
 With a simple form, light colors, and minimal facial expressions, children will learn the consequences of their behavior and develop a sense of responsibility for their own actions.
 
