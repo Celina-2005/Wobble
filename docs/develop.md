@@ -14,11 +14,10 @@
 At the start of the second semester, a broad exploration of the Wobble concept was conducted to assess its full scope and complexity. This began with the creation of a **comprehensive mind map**, in which all possible components, interaction types, and functionalities of Wobble were mapped out. The mind map revealed that the concept, in its current form, was overly extensive and **lacked prioritization**. Multiple interaction modalities (e.g. light, sound, movement, touch) and behavioural features were considered simultaneously, making it difficult to determine which elements were essential for achieving the core goal.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9a0ca9e-a0dd-41bb-a929-d072caf86143" height="350"/>
+  <img src="D3_MindMapEN.png" height="350"/>
   <br>
   Figure 2. Initial mind map of Wobble functionalities and interaction modalities
 </p>
-
 
 
 ### Literature Study and Technology Analysis
@@ -90,8 +89,10 @@ This prioritization formed the basis for Develop 2, in which these key interacti
 > [D3. Develop_1_Report_De_Bleser_Axelle_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.1%20Develop%201/C.%20Interview_Rapport_De_Bleser_Axelle_Rootsaert_Selena.docx?d=wb0b0c9f46ac94540b67276597a27215c&csf=1&web=1&e=4CA7Jq)
 
 
+> [!IMPORTANT]
+> An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
 
-## Develop 2 – Sensory Tests and Material Study (March)
+## Develop 2 – Sensory Tests and Material Study (March - April)
 ### Goal
 The aim is to investigate how effectively a breathing movement or breathing aid in the form of sound can help children aged 2 to 6 to calm down more quickly.
  
@@ -107,24 +108,7 @@ Additionally, various substances are haptically tested to determine how pleasant
 
 ### Prototype assembly
 A modular prototype was made so that the different fabrics could be placed on the same prototype.
-A box was laser-cut; the top plate was laser-cut several times (1 plate per fabric).
- 
-The box initially contained:
-- Arduino Uno
-- H-bridge L298N
-- 12V battery holder
-- Motor*
- 
-**The initial motor used was a DC motor; it was not powerful enough to rotate the connected plates. Next, a TT motor was used. This was also not strong enough. Finally, the 12V JGY-370 DC motor was used.*
- 
-Everything except the motor was attached to the wooden plates with small bolts and nuts.
 
-<p align="center">
-  <img src="../img/Prototype1.jpeg" height="300"/>
-  <img src="../img/Prototpye.jpeg" height="300"/>
-  <br>
-  Figure 4. Prototype
-</p>
 
 **Anthropometric Basis for Dimensioning**
 
@@ -166,6 +150,25 @@ To achieve the movement, semicircles were laser-cut. This shape could either pro
   Figure 5. Drawing - Plates for breathing movement
 </p>
 
+
+A box was laser-cut; the top plate was laser-cut several times (1 plate per fabric).
+ 
+The box initially contained:
+- Arduino Uno
+- H-bridge L298N
+- 12V battery holder
+- Motor*
+ 
+**The initial motor used was a DC motor; it was not powerful enough to rotate the connected plates. Next, a TT motor was used. This was also not strong enough. Finally, the 12V JGY-370 DC motor was used.*
+ 
+Everything except the motor was attached to the wooden plates with small bolts and nuts.
+
+<p align="center">
+  <img src="../img/Prototype1.jpeg" height="300"/>
+  <img src="../img/Prototpye.jpeg" height="300"/>
+  <br>
+  Figure 4. Prototype
+</p>
 
 ### Test procedure
 1. The child was blindfolded and led to a table where he or she was allowed to feel the different fabrics one by one. (blindfolded so that the color or pattern had no influence) After each use, they were asked if the fabric felt nicer or less nice than the previous one, so that the precise placement of a fabric could be determined. 
@@ -210,3 +213,8 @@ Breathing along with the rhythm was generally difficult; insufficient account ha
 
 > [!IMPORTANT]
 > An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
+
+
+## Develop 3 - Allround Tests and Interaction Design (May)
+
+
