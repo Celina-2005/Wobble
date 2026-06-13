@@ -15,20 +15,31 @@ In this table, **Design Requirements (DRs)** define the essential conditions the
 | 6  | The design must be safe, compact, and easy to maintain, tailored to use in a domestic environment. | Discovery | Survey | Oct 2025 |
 | 7  | The Wobble shall be durable enough to withstand frequent and uncontrolled physical contact by young children. | Definition | Observation | Dec 2025 |
 | 8  | The Wobble shall be washable or easily cleanable to meet hygiene requirements. | Definition | Observation | Dec 2025 |
+| 9  | Wobble must support largely autonomous child interaction while requiring only minimal parental intervention to initiate the calming process. | Develop 3 | Observation | May 2026 |
 | **DI1** | Designs that provide temporary task relief (reminders, automated routines, independent child activity) reduce stress. The product must not require additional actions from the parent. | Discovery | Literature | Oct 2025 |
 | **DI2**  | The product must create a calm, predictable atmosphere during bedtime, using soft light and sound transitions, and optionally a co-parenting feature that makes task division visible. | Discovery | Literature | Oct 2025 |
 | **DI3** | Products should be suitable for multiple children within one household, not only for the youngest child. | Discovery | Survey | Oct 2025 |
+| **DI4** | There should be multiple fabric sleeves available so the children can choose what fabric they find the most comfortable. | Develop 2 | Analysis | March 2026 |
 |    | **Form and Shape** |  |  |  |
 | 1  | The Wobble shall have a basic, abstract form positioned between a cube and a sphere to avoid familiarity while remaining approachable. | Definition | Observation | Dec 2025 |
 | 2  | The Wobble shall have a clear front orientation to support face-to-face interaction. | Definition | Observation | Dec 2025 |
 |    | **Communication** |  |  |  |
 | 1  | The Wobble has to communicate through facial expressions with eyes and eyebrows for emotional clarity. | Definition | Card sorting | Dec 2025 |
-| 2  | The facial expressions have to follow the guidelines written in the Facial expressions rapport to make the right emotions clear to the children. | Definition | Card sorting | Dec 2025 |
+| 2  | The facial expressions have to follow the guidelines written in the Facial expressions report to make the right emotions clear to the children. | Definition | Card sorting | Dec 2025 |
 | 3 | Colour is used as supportive and affective feedback, not as a primary means of communicating specific emotions.| Definition | Observation + Literature | Jan 2026|
 | 4  | Colour feedback is always combined with sound and facial expression to clarify emotional interpretation in young children.| Definition | Observation | Jan 2026|
 | **DI4** | Wobble could have multiple facial expressions for each emotion so that each child can select the preferred expressions. | Definition | Dot Voting | Dec 2025 |
 |    | **Technology** |  |  |  |
 | 1  | The Wobble shall include haptic sensors to detect touch-based interactions such as petting, hugging, and sustained pressure. | Definition | Observation | Dec 2025 |
 | 2  | The Wobble may include audio sensors primarily as an initial environmental or interaction trigger rather than for verbal input. | Definition | Observation | Dec 2025 |
-| 3  | Wobble his primary calming focus is a haptic movement. | Definition | Prototype test | March 2026 |
-
+| 3  | Wobble his primary calming focus is a haptic movement to hold the children's attention. | Develop 2 | Observation | March 2026 |
+| 4  | The breathing exercise pattern needs to be adapted to young children. | Develop 2 | Prototype test | March 2026 |
+|    | **Domestication** |  |  |  |
+| 1  | The setup and daily use of Wobble must be clear throughout the unboxing process. | Develop 3 |Interviews | May 2026 |
+| 2  | The sleeve must be easy to put on and/or remove in a maximum of 1 to 2 steps. | Develop 3 | Observations | May 2026 |
+| 3  | The start guide and the sequence of events must be clearly indicated with numbers or symbols corresponding to those in the story. | Develop 3 | Interviews | May 2026 |
+| 4  | The packaging must fall open when the lid is removed. This way, the users get an overview of the components, and unboxing is perceived as more fun for the children. | Develop 3 | Prototype test | May 2026 |
+| 5  | A resell system must be provided to sell Wobble back to the company for a small fee. | Develop 3 | Interviews | May 2026 |
+| **DI1**  | As an alternative to the comic strip, a short video could be provided to include the children who can't read yet. | Develop 3 | Interviews | May 2026 |
+| **DI2**  | To stimulate the resell system, a teddy bear can be provided in exchange for Wobble to give the kids an alternative of their friend while Wobble helps another child. | Develop 3 | Interviews | May 2026 |
+| **DI3**  | The packaging can be coloured in afterwards or reused for crafting | Develop 3 | Interviews | May 2026 |
