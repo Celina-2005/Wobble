@@ -2,12 +2,11 @@
 
 
 <p align="center">
-    <img height="350" alt="Methodologie_Sem1" src="https://github.com/user-attachments/assets/1881384f-8d8b-456f-884e-72c42cbbadb7"/>
+    <img height="350" alt="Methodologie_Sem1" src="zMethodlogie (3).png"/>
     <br>
-    Figure 1. Methodological Timeline Sem 1 (Placeholder, Discovery & Definition & Develop 1 and 2)
+    Figure 1. Methodological Timeline
 </p>
 
-    
 
 ## Discovery Phase – Problem Exploration and Concept Selection (September – October)
 The Discovery Phase combines a divergent and convergent research step with the aim of defining the core problem and establishing an initial product direction.
@@ -34,6 +33,21 @@ The study investigated :
 Additionally, different materials and interaction forms (e.g. textile, silicone, felt) were explored to evaluate comfort, engagement, and perceived safety.
 Results indicate that **haptic movement** is the most effective calming mechanism, as it provides a tangible focus that supports unconscious regulation. Audio alone was less effective, and synchronized breathing (movement + sound) proved too complex without further tuning to children’s natural breathing pace.
 
+
+## Develop 3 – All-round Validation and Customer Journey Testing (May)
+
+The final development phase focused on validating Wobble as a complete product experience rather than as a collection of individual interaction mechanisms. Whereas Develop 2 evaluated specific sensory interactions in isolation, Develop 3 investigated how these interactions function together within realistic use scenarios and how Wobble would be introduced into the home environment.
+
+Two complementary **field studies (N=3 families, around 4-5 parents, 3 children aged 2–6)** were conducted.
+
+The first study examined the **customer journey and domestication process**. Using a Wizard-of-Oz packaging prototype, parents and children were guided through the unboxing, setup, and onboarding process. Particular attention was given to the role of storytelling, child involvement, usability of the setup procedure, and the creation of an initial emotional bond with Wobble. In parallel, parents evaluated a pre-developed customer journey model to validate assumptions regarding awareness, purchase behaviour, onboarding, long-term engagement, and product end-of-life.
+
+The second study evaluated the **integrated interaction experience**. A Wizard-of-Oz prototype combining emotional facial expressions, colour-changing light, and breathing guidance was used to simulate a calming interaction following a staged emotional situation. 
+
+
+
+
 ## Evolution of Prototypes
 Within semester 1, prototyping was limited to **conceptual and low-fidelity explorations**, such as sketches, scenarios, and cardboard models. Physical and interactive prototypes will be further developed and tested in semester 2, building on the insights gained in semester 1.
 
+Starting from individual proof-of-concept prototypes (for breathing guidance, tactile interaction, lighting, and emotional communication), the prototypes gradually evolved into integrated **Wizard-of-Oz systems**. Each iteration incorporated findings from user tests, expert feedback, and customer journey evaluations. This process ultimately resulted in a functional high-fidelity prototype that combined onboarding, emotional expression, breathing guidance, and autonomous interaction within a single coherent product experience.

@@ -1,10 +1,11 @@
 # Definition
 
 <p align="center">
-    <img alt="zDefinition" src="https://github.com/user-attachments/assets/02177d24-81a7-476c-8fc5-7e3325ade01a" height = "200">
+    <img alt="zDefinition" src="zDefinition.png" height = "200">
     <br>
     Figure 1. Definition Overview
 </p>
+
 
 ## Objectives
 
