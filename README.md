@@ -67,7 +67,7 @@ This allows the parents to engage in a conversation about the situation in a qui
 3. [Defintion](./docs/definition.md)
 4. [Develop](./docs/develop.md)
 5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
+6. [Technical Description (BoM)](./docs/bom.md)
 
 ## Critical reflections
 ### Semester 1

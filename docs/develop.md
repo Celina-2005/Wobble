@@ -470,6 +470,6 @@ The customer journey study demonstrated that children and parents can successful
 
 > [!Note]
 > The full details of the test analysis and results can be found in the report.
-> [D3. Develop_2_Report_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
-
+> [C1. Analyse_Customer_Journey_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCfQwNqhfULTZqgDBH-Bh2ZAXRWN-KbGN2CAlod0ehBX4M?e=EtMINM)
+> [C2. Report_AllroundTest_Rootsaert_Selena](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB30yDE145EQZ2FBNOxH6HKARRgpmBxNIGLfkgLFq2mrwo?e=6Nyo6u)
 
