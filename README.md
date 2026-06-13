@@ -10,7 +10,7 @@ Built by ``Rootsaert Selena`` & ``De Bleser Axelle``
 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 Grown at ``Ghent University`` - ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*12/04/2026 since the last update*   
+*13/06/2026 since the last update*   
 
 ## Summary
 ### Semester 1
