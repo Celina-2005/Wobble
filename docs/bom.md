@@ -62,4 +62,10 @@ Finally, repairability and maintenance became increasingly important as the conc
 6. The underbase can be unscrewed to replace the battery or repair internal components.
 7. During normal operation, charging occurs wirelessly through the docking station.
 
-*Figure x assembly*
+<p align="center">
+  <img src="Schermafbeelding 2026-06-13 211627.png" height="350"/>
+  <br>
+  Figure 1. Exploded assembly view of a possible Wobble Prototype
+</p>
+
+
