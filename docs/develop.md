@@ -11,7 +11,9 @@
 
 ## Develop 1 – Expert Interviews and Concept Focusing (February)
 ### Goal
-At the start of the second semester, a broad exploration of the Wobble concept was conducted to assess its full scope and complexity. This began with the creation of a **comprehensive mind map**, in which all possible components, interaction types, and functionalities of Wobble were mapped out. The mind map revealed that the concept, in its current form, was overly extensive and **lacked prioritization**. Multiple interaction modalities (e.g. light, sound, movement, touch) and behavioural features were considered simultaneously, making it difficult to determine which elements were essential for achieving the core goal.
+At the start of the second semester, a broad exploration of the Wobble concept was conducted to assess its full scope and complexity. This began with the creation of a **comprehensive mind map**, in which all possible components, interaction types, and functionalities of Wobble were mapped out.
+
+The mind map revealed that the concept had become overly broad and lacked a clear prioritization of functionalities. Multiple interaction modalities (e.g. light, sound, movement, and touch) and behavioural features were considered simultaneously, making it difficult to determine which elements were essential for achieving the core objective of the project.
 
 <p align="center">
   <img src="D3_MindMapEN.png" height="350"/>
@@ -46,9 +48,9 @@ The most promising combination identified was :
 -	Soft auditory support (e.g. breathing sounds, calm audio cues).
 
 These correspond to three underlying regulation mechanisms :
--	Tactile safety : creating a sense of comfort and security through physical contact,
--	Physiological synchronization : guiding the child’s breathing rhythm to induce calmness,
--	Auditory calming : reinforcing relaxation through predictable and soft sound cues.
+-	**Tactile safety** : creating a sense of comfort and security through physical contact,
+-	**Physiological synchronization** : guiding the child’s breathing rhythm to induce calmness,
+-	**Auditory calming** : reinforcing relaxation through predictable and soft sound cues.
 
 This triad formed the initial foundation for further concept development.
 
@@ -94,11 +96,11 @@ This prioritization formed the basis for Develop 2, in which these key interacti
 
 ## Develop 2 – Sensory Tests and Material Study (March - April)
 ### Goal
-The aim is to investigate how effectively a breathing movement or breathing aid in the form of sound can help children aged 2 to 6 to calm down more quickly.
- 
-A mechanical breathing rhythm is established, and constant sounds are used to guide the breathing.
- 
-Additionally, various substances are haptically tested to determine how pleasant preschoolers find these substances. This allows us to ascertain whether there is a general preference.
+The aim of this phase was to investigate how different sensory interaction modalities can support emotional regulation in children aged 2 to 6 years.
+
+Two breathing-based interventions were evaluated: guidance through physical movement and guidance through auditory cues.
+
+In addition, a material preference study was conducted to identify which fabrics children perceived as most pleasant to touch. The findings of both studies were intended to support further development of the Wobble concept.
 
 
 > [!Note]
@@ -107,10 +109,11 @@ Additionally, various substances are haptically tested to determine how pleasant
 
 
 ### Prototype assembly
-A modular prototype was made so that the different fabrics could be placed on the same prototype.
-
+A modular prototype was developed to allow different fabrics to be tested using the same interaction mechanism.
 
 **Anthropometric Basis for Dimensioning**
+
+To ensure ergonomic interaction, the dimensions of the enclosure were derived from anthropometric data obtained from the DINBelg database.
 
 The dimensions of the enclosure were derived from anthropometric data obtained from the DINBelg database, which provides measurements for children aged 3 to 6 years (mixed gender) :
 
@@ -143,13 +146,17 @@ Using these values, the enclosure was designed as a square with an internal side
 
 **Motion Mechanism**
 
-To achieve the movement, semicircles were laser-cut. This shape could either protrude above the box and push the fabric upwards, or remain below the fabric so that the test subject's hand moves downwards.
+To create the breathing movement, semicircular plates were laser-cut and integrated into the prototype.
+
+Depending on the configuration, these plates either protruded above the enclosure to lift the fabric surface or remained below the surface, causing the user's hand to move downward.
+
 <p align="center">
   <img src="../img/plaatjes.png" height="300">
   <br>
   Figure 5. Drawing - Plates for breathing movement
 </p>
 
+**Prototype Construction**
 
 A box was laser-cut; the top plate was laser-cut several times (1 plate per fabric).
  
@@ -159,7 +166,7 @@ The box initially contained:
 - 12V battery holder
 - Motor*
  
-**The initial motor used was a DC motor; it was not powerful enough to rotate the connected plates. Next, a TT motor was used. This was also not strong enough. Finally, the 12V JGY-370 DC motor was used.*
+**The initial DC motor did not generate sufficient torque to rotate the connected plates. A TT motor was subsequently tested but produced similar limitations. Ultimately, a 12V JGY-370 DC motor was selected because it provided sufficient force to drive the breathing mechanism reliably.*
  
 Everything except the motor was attached to the wooden plates with small bolts and nuts.
 
@@ -171,20 +178,38 @@ Everything except the motor was attached to the wooden plates with small bolts a
 </p>
 
 ### Test procedure
-1. The child was blindfolded and led to a table where he or she was allowed to feel the different fabrics one by one. (blindfolded so that the color or pattern had no influence) After each use, they were asked if the fabric felt nicer or less nice than the previous one, so that the precise placement of a fabric could be determined. 
+
+**Material Preference Test**
+
+1. The child was blindfolded and led to a table where he or she was allowed to feel the different fabrics one by one (blindfolded so that colour or pattern had no influence).
+2. After each fabric, the child was asked whether it felt nicer or less pleasant than the previous one, allowing a ranked preference order to be established.
+3. The favourite fabric was placed on the prototype.
+
 <p align="center">
   <img src="../img/Test_plaatjes.jpeg" height="300">
   <br>
   Figure 6. Fabrics - Least pleasant (upper left) to most pleasant (bottom right)
 </p>
 
-2. The favorite was placed on the prototype. The heart rate was measured and recorded. The child was allowed to touch the prototype so that they know something will move.
- 
-3. The child completed a short running course. This was timed to make it more competitive for the child.
- 
-4. After running, the heart rate was immediately measured and recorded. From now on, this will be done every 2 minutes.
- 
-5. The child goes to the prototype and places his or her hand on the top.
+**Breathing Movement Test**
+
+4. The child's heart rate was measured and recorded.
+5. The child was allowed to touch the prototype beforehand to become familiar with the upcoming movement.
+6. The child completed a short running course.
+
+*The course was timed to increase engagement and motivation.*
+
+7. Immediately after running, the heart rate was measured and recorded.
+8. From this point onward, heart rate measurements were taken every two minutes.
+9. The child placed his or her hand on the prototype and interacted with the breathing movement.
+
+**Audio Breathing Test**
+
+10. After all participants completed the first phase, they returned one by one in the same order.
+11. An additional resting heart-rate measurement was taken.
+12. The walking test was repeated.
+13. The child sat on a chair and listened to the audio guidance.
+14. Heart rate was again measured and recorded every two minutes.
 
 <p align="center">
   <img src="../img/Test1.jpg" height="300"/>
@@ -192,24 +217,52 @@ Everything except the motor was attached to the wooden plates with small bolts a
   <br>
   Figure 7. Testing the breathing mechanism
 </p>
+Participants were not informed about the intended calming function of either intervention.
 
-This sequence is followed for every child. After every child has had their turn, they may return one by one in the same order, and the next phase begins.
+At the end of each phase, they were asked whether they understood why the activity was being performed. Interestingly, several children spontaneously attempted to synchronise their breathing with the movement or audio once they recognised the rhythm, despite not being explicitly instructed to do so.
  
-6. The heart rate is measured as an additional resting reference; subsequently, the walking test is timed and performed again.
- 
-7. The child sits on a chair and listens to the audio. Again, the heart rate is measured and recorded every two minutes.
- 
-At the end of each phase, they are asked if they know why I am having them do this. They do not know the purpose of the prototype or the audio. When it is mentioned that the intention is for them to breathe along with the movement or sound to calm down, a few children try to do this without me explicitly asking them.
 
-### Conclusion
-The test utilizing breathing movements was perceived best by the children. During the observation, it was also noted that the children were much better able to maintain their focus when they could focus haptically on something.
- 
-Breathing along with the rhythm was generally difficult; insufficient account had been taken of the fact that children generally breathe faster than adults (and therefore also at rest).
+### Results and Findings
+Several observations emerged throughout the testing process.
+
+The material preference study revealed noticeable differences between participants, although softer fabrics were generally preferred.
+
+During the breathing-movement condition, children appeared to remain engaged for longer periods and frequently maintained physical contact with the prototype. 
+The audio condition appeared less effective in sustaining attention, with several children becoming distracted more quickly.
+
+Although participants were not informed about the intended calming purpose of the interventions, some children spontaneously attempted to synchronise their breathing with the provided rhythm.
+
+
+
+### Interim Conclusion
+
+The breathing-movement condition was generally preferred by participants and proved more effective in maintaining engagement than auditory guidance alone.
+
+The test utilizing breathing movements was perceived best by the children.
+
+Observations indicated that children were better able to maintain focus when interacting with a tangible object while following a rhythmic movement pattern.
+
+During the observation, it was also noted that the children were much better able to maintain their focus when they could focus haptically on something.
+
+Breathing along with the rhythm was generally difficult.
+
+An important limitation identified during testing was that the breathing rhythm was primarily based on adult breathing patterns. Future iterations should better reflect the naturally higher breathing frequency of young children.
+
+
+
 
 > [!Note]
 > The full details of the test analysis and results can be found in the report.
 > [D3. Develop_2_Report_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
 
+
+### Design Implications
+
+The findings reinforced several conclusions from Develop 1, particularly regarding the importance of tactile and movement-based interaction.
+
+The results suggested that physical interaction provides a stronger attentional anchor than auditory guidance alone. Consequently, further development focused primarily on breathing guidance through movement while maintaining tactile engagement as a central design principle.
+
+The tests also highlighted the importance of adapting breathing rhythms to the physiological characteristics of young children, whose resting breathing frequency differs significantly from that of adults.
 
 > [!IMPORTANT]
 > An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
