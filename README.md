@@ -74,7 +74,7 @@ We got started very quickly, which gave us enough time for everything. This allo
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
 
 ### Semester 2
-It was difficult to create technical prototypes that could validate the entire process. As a result, there were some uncertainty between the different phases. Despite the difficult balance between what we wanted to achieve and effective feasibility, we still managed to focus on a few key aspects with feasible prototypes.
+It was difficult to create technical prototypes that could validate the entire process. As a result, there were some hesitations between the different phases. Despite the difficult balance between what we wanted to achieve and effective feasibility, we still managed to focus on a few key aspects with feasible prototypes.
 
 > [!IMPORTANT]
 > Note in regards of AI <br>
