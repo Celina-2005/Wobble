@@ -154,7 +154,7 @@ Depending on the configuration, these plates either protruded above the enclosur
 <p align="center">
   <img src="../img/plaatjes.png" height="300">
   <br>
-  Figure 5. Drawing - Plates for breathing movement
+  Figure 4. Drawing - Plates for breathing movement
 </p>
 
 **Prototype Construction**
@@ -175,7 +175,7 @@ Everything except the motor was attached to the wooden plates with small bolts a
   <img src="../img/Prototype1.jpeg" height="300"/>
   <img src="../img/Prototpye.jpeg" height="300"/>
   <br>
-  Figure 4. Prototype
+  Figure 5. Prototype
 </p>
 
 ### Test procedure
@@ -462,7 +462,7 @@ Perhaps the most significant finding was the role of parental involvement. Rathe
 > An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
 
 
-## Interim Conclusion
+### Interim Conclusion
 
 Develop 3 validated Wobble as a coherent and realistic product concept.
 
