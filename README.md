@@ -145,6 +145,19 @@ It was difficult to create technical prototypes that could validate the entire p
   * [Analysis](https://ugentbe.sharepoint.com/:x:/r/teams/Group.course1292872/Gedeelde%20documenten/General/3.2%20Develop%202/C.1%20Data_Calming_Test.xlsx?d=w706c09de432c4d95b8752de7a952309c&csf=1&web=1&e=v34cZC)
 
 #### Develop 3
+* [InformedConsent](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQAoQ79Tqz_mRIl3RcXA0TR2ARSbCjU1iwDKHDMNqkfj3XE?e=QcLf1N)
+* Customer Journey test **(N=4 parents, N=6 children)**
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDgwUNdQz1MRZiAAsAbuvxwATbY6JiNhPQmWITh2DCw_Oc?e=W9hTVV)
+  * [Testsheet](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB2S_FG6XRBRabz45g_CIofAbT4XSco_Tim-aMzKcmIjLM?e=gJW0fz)
+  * [Questionnaire](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQA217OhrI2jTYDhTHFj0bS5AcQ692DJ4Nq9l0zKnHBF12o?e=nJFSev)
+  * [UEQAnalysis](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQDXNmtjro7TTZ2S8ZeIueT-AfrSeOipshhQ6Z36DUA1jzg?e=yzgTe7)
+  * [Customer_Journey_Analysis](https://ugentbe.sharepoint.com/:x:/t/Group.course1292872/IQCVWrXLECQHR41d9df5EzNvAYMFkmYw_u7nVJNaZb6HNw8?e=P19DCV)
+  * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQCfQwNqhfULTZqgDBH-Bh2ZAXRWN-KbGN2CAlod0ehBX4M?e=EtMINM)
+
+* AllroundTest **(N=4 parents, N=6 children)**
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQC0dsbtzxHqTKZPnKYyKMHDAZAcO0GT4Jjdp5UrwRMM-JU?e=S1jZcf)
+  * [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQB30yDE145EQZ2FBNOxH6HKARRgpmBxNIGLfkgLFq2mrwo?e=6Nyo6u)
+
 
 ## License  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
