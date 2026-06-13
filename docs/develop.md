@@ -94,6 +94,7 @@ This prioritization formed the basis for Develop 2, in which these key interacti
 > [!IMPORTANT]
 > An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
 
+
 ## Develop 2 – Sensory Tests and Material Study (March - April)
 ### Goal
 The aim of this phase was to investigate how different sensory interaction modalities can support emotional regulation in children aged 2 to 6 years.
@@ -269,5 +270,206 @@ The tests also highlighted the importance of adapting breathing rhythms to the p
 
 
 ## Develop 3 - Allround Tests and Interaction Design (May)
+
+### Goal
+
+After validating individual interaction modalities during Develop 2, the third development phase focused on evaluating Wobble as a complete user experience. Rather than assessing isolated features such as movement, lighting, or tactile interaction, this phase investigated how these elements function together within realistic usage scenarios.
+
+Two complementary studies were conducted.
+
+The first study focused on the customer journey and domestication process of Wobble. This included the unboxing experience, onboarding process, setup procedure, and the first interaction between child and product. Particular attention was given to how children and parents experience the introduction of Wobble into the home environment.
+
+The second study focused on the integrated interaction experience. Here, children and parents interacted with a Wizard-of-Oz prototype in a simulated emotional regulation scenario. The objective was to evaluate whether Wobble's visual cues, emotional expressions, and breathing guidance function coherently as a calming intervention.
+
+Together, these studies aimed to answer the following questions :
+- Can children intuitively understand Wobble's emotional communication?
+- Does the onboarding process successfully create an initial bond between child and product?
+- Does the integrated interaction support emotional regulation?
+- How much parental involvement is required?
+- Is the overall concept perceived as realistic and valuable by parents?
+
+
+### 3A. Customer Journey and Domestication Test
+
+#### Goal
+
+The first study examined how Wobble would enter the home and how children and parents experience the onboarding process.
+
+Previous research suggested that emotional attachment is critical for the success of emotional support products. Therefore, the first interaction between child and product was considered equally important as the functionality itself.
+
+The study focused on :
+- The unboxing experience;
+- The clarity of the onboarding process;
+- Parent and child involvement during setup;
+- The role of storytelling during onboarding;
+- Initial emotional attachment to Wobble;
+- The broader customer journey before and after purchase.
+
+#### Prototype
+
+A Wizard-of-Oz packaging prototype was developed containing :
+- Wobble;
+- A charging dock;
+- A charging cable;
+- A protective fabric cover;
+- A comic-style onboarding story.
+
+The story guided users through the setup process while simultaneously introducing Wobble as a character.
+
+<p align="center">
+  <img src="Picture1.png" height="200"/>
+  <br>
+  Figure 8. Customer Journey test setup and packaging prototype
+</p>
+
+
+#### Findings
+
+> **Storytelling became the central onboarding mechanism**
+
+Across all three tests, the comic story proved to be the most important component of the onboarding process.
+
+Whenever participants immediately started reading the story, the setup process proceeded smoothly and children remained actively engaged. In contrast, when the story was overlooked, both parents and children quickly became confused and lost interest.
+
+This demonstrated that the onboarding experience should not primarily rely on traditional instructions. Instead, storytelling serves as the main mechanism through which both operational information and emotional attachment are introduced.
+
+> **Children actively participated in the setup process**
+
+The tests showed that children were highly motivated to participate in setting up Wobble.
+
+Activities such as pressing buttons, connecting components, and helping parents were perceived as enjoyable. Older siblings often became involved as well, even when they were not part of the intended test group.
+
+This suggests that onboarding should be designed as a shared parent-child activity rather than a purely parental setup procedure.
+
+> **Packaging influences perceived product quality**
+
+Parents consistently responded positively to the packaging concept. The box provided a clear overview of all components and created a pleasant unboxing experience.
+
+Several participants suggested that the packaging could remain useful after unboxing, for example by allowing children to colour it or use it for crafting activities. This would extend the emotional experience beyond the initial setup phase.
+
+> **Transparency remains the largest usability challenge**
+
+A UEQ analysis revealed that transparency scored lower than all other categories.
+
+The main causes were :
+- The comic story not being sufficiently emphasized as the starting point;
+- Unclear sequencing of setup actions;
+- Missing explanations regarding some product functions.
+
+Participants suggested stronger visual guidance through numbered steps and better integration between the packaging and the onboarding story.
+
+> **Customer journey validation**
+
+The customer journey validation confirmed most assumptions made during previous journey mapping exercises.
+
+Parents indicated that :
+- Online reviews strongly influence purchase decisions;
+- Social media remains important after purchase;
+- Physical retail presence increases trust for higher-priced products;
+- A resale system would be highly appreciated.
+
+Interestingly, newsletters were consistently considered irrelevant, whereas ongoing social media content was perceived as valuable for maintaining engagement with the product.
+
+
+### 3B. All-round Interaction Test
+
+#### Goal
+
+The second study focused on evaluating Wobble's integrated interaction behaviour during a simulated emotional regulation scenario.
+
+The objective was not to test individual features, but rather to investigate whether emotional expressions, lighting, breathing guidance, and parental involvement work together as a coherent calming system.
+
+#### Prototype
+
+A Wizard-of-Oz interaction prototype was developed consisting of :
+- Colour-changing LED lighting;
+- A breathing simulation using an inflatable balloon;
+- Rotating facial expressions;
+- Manual state transitions controlled by the researchers.
+
+The prototype could represent four emotional states :
+- Sleeping;
+- Neutral;
+- Happy;
+- Angry.
+
+<p align="center">
+  <img src="Picture2.png" height="200"/>
+  <img src="Picture3.png" height="200"/>
+  <br>
+  Figure 9. All-round interaction test prototype
+</p>
+
+
+
+#### Findings
+
+> **Emotional expressions were immediately understood**
+
+Children consistently recognised the different facial expressions and emotional states.
+
+The emotional faces proved significantly more effective than colour alone for communicating meaning. Earlier prototypes had already suggested this, and the current study confirmed the finding.
+
+Lighting was not primarily interpreted as emotional communication but functioned extremely well as an attentional trigger. Whenever colours changed, children immediately redirected their attention towards Wobble.
+
+This indicates that emotional communication should primarily rely on facial expressions, while lighting should be used to attract attention.
+
+> **Breathing guidance was intuitive**
+
+The breathing interaction proved highly successful.
+
+Children naturally followed the breathing rhythm and quickly understood that placing their hand on Wobble initiated a calming exercise.
+
+Compared to previous motor-driven prototypes, the balloon-based breathing mechanism attracted less attention to the technology itself while maintaining sufficient visibility for both children and parents.
+
+Several parents also recognised the breathing exercise from existing kindergarten practices, indicating strong alignment with established emotional regulation techniques.
+
+> **Minimal parental intervention was required**
+
+A notable finding across all tests was the limited amount of support required from parents.
+
+Parents typically provided an initial prompt such as :
+
+*"Look at Wobble."*
+
+or
+
+*"Put your hand on Wobble."*
+
+After this initial guidance, children generally continued the interaction independently.
+
+Parents perceived this as one of the strongest aspects of the concept because it potentially allows them to briefly focus on another task while the child calms down.
+
+> **Emotional attachment appears realistic**
+
+Parents consistently reported that children could realistically develop a meaningful bond with Wobble.
+
+Participants compared the concept to comfort objects and favourite stuffed animals that children naturally carry throughout the house.
+
+However, parents also indicated that attachment would depend on the child's personality and developmental stage. Some children would likely interact with Wobble independently, while others would require more encouragement and reinforcement from parents.
+
+
+
+### Design Implications
+
+If WOBBLE functions as a character-driven companion whose effectiveness depends heavily on emotional attachment, the onboarding process therefore becomes a critical design element. The comic story successfully created engagement and understanding, but its role as the primary onboarding mechanism must be made significantly more explicit.
+
+The interaction tests further confirmed that children naturally respond to physical and visual emotional cues. Facial expressions emerged as the strongest communication channel, while lighting functions most effectively as an attention trigger. Breathing guidance remained one of the most intuitive and universally understood interactions throughout the project.
+
+Perhaps the most significant finding was the role of parental involvement. Rather than replacing parental support, Wobble acts as an intermediary that helps children regulate emotions while reducing the need for continuous parental intervention. This aligns closely with the original project vision established during Develop 1.
+
+> [!IMPORTANT]
+> An overview of the product requirements can be found under [Design Requirements](./design_requirements.md).
+
+
+## Interim Conclusion
+
+Develop 3 validated Wobble as a coherent and realistic product concept.
+
+The customer journey study demonstrated that children and parents can successfully onboard and establish an initial connection with Wobble when guided through a story-driven setup process. The interaction study confirmed that children intuitively understand Wobble's emotional communication and can participate in calming interactions with minimal parental support.
+
+> [!Note]
+> The full details of the test analysis and results can be found in the report.
+> [D3. Develop_2_Report_De_Bleser_Axelle](https://ugentbe.sharepoint.com/:w:/t/Group.course1292872/IQDWQ2pbi02wS7uIMysw7qV0AVG_IiHluOfWckKgq9gauwY?e=6I5F7z)
 
 
