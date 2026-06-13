@@ -28,13 +28,16 @@ The proposed solution, **Wobble**, is a **smart, child-focused product** that su
 
 By actively supporting the child during stressful moments, the intensity and duration of escalations are reduced. This indirectly reduces stress for the parent and creates a more peaceful environment. Wobble thus positions itself as a supportive link between child and parent.
 
+### Semester 2
+In het tweede semester werd vooral gefocust op de volledige werking van het product. Dit werd gevalideerd en verfijnd met behulp van experts. Verder werden er prototypes gemaakt om de werking verder te vallideren bij kinderen en ouders. 
+
 <p align="center">
   <img src="Renders Wobble semester 2.png" width="350">
   <br>
   Figure 2. Wobble Render - End Second Semester
 </p>
 
-
+Dit semester werd er niet alleen naar het product zelf gekeken, maar ook naar de ervaring errond. Zo werden testen uitgevoerd waarbij de focus lag op de unboxing van het product zodat de eerste band met het kind zo goed mogelijk gecreëerd werd.
 
 ## Introduction
 
