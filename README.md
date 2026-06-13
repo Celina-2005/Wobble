@@ -18,15 +18,22 @@ Wobble focuses on the problem of **parental stress in raising children aged 2 to
 
 The problem was investigated through a literature review of stressors in parenting, followed by parent surveys. Based on this, one dominant stressor was selected. In a subsequent phase, brainstorming sessions, observations, and additional literature research were used to gain insight into emotion recognition and regulation in young children and to further substantiate the concept.
 
+<p align="center">
+  <img src="Renders Wobble semester 1.png" width="350">
+  <br>
+  Figure 1. Wobble Render - First Semester
+</p>
+
 The proposed solution, **Wobble**, is a **smart, child-focused product** that supports children in recognizing and regulating their emotions. Instead of correcting the parent or imposing additional tasks, Wobble helps the child calm down independently through gentle, playful stimulation.
 
 By actively supporting the child during stressful moments, the intensity and duration of escalations are reduced. This indirectly reduces stress for the parent and creates a more peaceful environment. Wobble thus positions itself as a supportive link between child and parent.
 
 <p align="center">
-  <img src="Render_Sem1.png" width="500">
+  <img src="Renders Wobble semester 2.png" width="350">
   <br>
-  Figure 1. Wobble Render Semester 1
+  Figure 2. Wobble Render - End Second Semester
 </p>
+
 
 
 ## Introduction
@@ -34,10 +41,13 @@ By actively supporting the child during stressful moments, the intensity and dur
 When children have tantrums, it often causes a lot of stress for their parents. Children are usually unaware of the consequences of their behavior, so to help them learn this, we created **Wobble**. Wobble is a virtual pet that expresses emotions very vividly, allowing children to clearly see the impact of their behavior on others. This helps them develop empathy and learn to take responsibility for their own actions.
 
 <p align="center">
-  <img src="docs/Storyboard.png" width="500">
+  <img src="Storyboard.png" width="500">
   <br>
-  Figure 2. Storyboard (placeholder - start 2nd semester)
+  Figure 3. Storyboard 
 </p>
+
+
+
 
 We want to create a product that fosters a calm home environment. To achieve this, Wobble should guide children in a low-stimulus way, relieving parents of that burden. It must be hands-free and able to recognize cues it should respond to, such as when a child calls out. It’s important that Wobble is easy to clean and safe for children.
 
@@ -51,9 +61,8 @@ With a simple form, light colors, and minimal facial expressions, children will 
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
 4. [Develop](./docs/develop.md)
-5. [Delivery](./docs/delivery.md)
-6. [Design Requirements](./docs/design_requirements.md)
-7. [Bill of materials](./docs/bom.md)
+5. [Design Requirements](./docs/design_requirements.md)
+6. [Bill of materials](./docs/bom.md)
 
 ## Critical reflections
 We got started very quickly, which gave us enough time for everything. This allowed us to thoroughly go through all the results and conduct additional literature research for the colour test. We are both highly motivated to design Wobble in a thoughtful way, which leads to good collaboration and smooth brainstorming sessions.
