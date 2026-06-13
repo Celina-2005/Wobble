@@ -68,9 +68,13 @@ With a simple form, light colors, and minimal facial expressions, children will 
 6. [Bill of materials](./docs/bom.md)
 
 ## Critical reflections
+### Semester 1
 We got started very quickly, which gave us enough time for everything. This allowed us to thoroughly go through all the results and conduct additional literature research for the colour test. We are both highly motivated to design Wobble in a thoughtful way, which leads to good collaboration and smooth brainstorming sessions.
 
 So far, Wobble is an idea that teachers and parents in our environment find very interesting. This will motivate us even more to continue developing it in the second semester.
+
+### Semester 2
+It was difficult to create technical prototypes that could validate the entire process. As a result, there was sometimes some uncertainty between the different phases. Despite the difficult balance between what we wanted to achieve and effective feasibility, we still managed to focus on a few key aspects with feasible prototypes.
 
 > [!IMPORTANT]
 > Note in regards of AI <br>
